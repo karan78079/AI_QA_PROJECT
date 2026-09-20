@@ -1,0 +1,23 @@
+TEST CASE: Verify Login Functionality
+
+Application URL:
+https://rahulshettyacademy.com/client
+
+Objective:
+Verify that a registered user can successfully log in with valid credentials.
+
+Test Data:
+
+"userEmail" : "rahulshetty@gmail.com",
+"userPassword"  : "Iamking@000"
+Steps:
+1. Open the application URL.
+2. Verify that the login page is displayed.
+3. Enter the valid email.
+4. Enter the valid password.
+5. Click the Login button.
+6. Verify successful authentication.
+7. Verify that the user is redirected to the authenticated page.
+
+Expected Result:
+The user should successfully log in with the provided valid credentials.
