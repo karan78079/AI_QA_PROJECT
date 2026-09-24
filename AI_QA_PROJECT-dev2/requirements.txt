@@ -1,0 +1,7 @@
+openai
+python-dotenv
+mcp
+pytest
+pytest-html
+playwright
+requests

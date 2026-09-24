@@ -1,0 +1,462 @@
+- generic [ref=f11e2]:
+  - region "Notifications (F8)":
+    - list
+  - region "Notifications alt+T"
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - generic: Limited Time — Free
+          - button "Dismiss popup"
+        - generic:
+          - heading "Join Our Academy & Unlock 2 Premium Courses — FREE" [level=3]: Join Our Academy & Unlock2 Premium Courses — FREE
+          - paragraph: Sign up once. No credit card. Instant access.
+        - list:
+          - listitem:
+            - generic: Java Design Patterns for Test Framework
+          - listitem:
+            - generic: SDET/QA Automation Interview Kit + Java Logic Programs
+        - link "Sign Up Free →":
+          - /url: https://courses.rahulshettyacademy.com/sign_up
+        - paragraph: Usually $197 · Now completely FREE
+  - generic [ref=f11e3]:
+    - navigation [ref=f11e4]:
+      - generic [ref=f11e6]:
+        - link [ref=f11e8] [cursor=pointer]:
+          - /url: /
+          - img "Rahul Shetty Academy" [ref=f11e9]
+        - generic [ref=f11e10]:
+          - link "Home" [ref=f11e11] [cursor=pointer]:
+            - /url: /
+          - link "All-Access" [ref=f11e15] [cursor=pointer]:
+            - /url: /all-access-subscription
+          - link "Learning Paths" [ref=f11e18] [cursor=pointer]:
+            - /url: /learning-paths
+          - link "Courses" [ref=f11e23] [cursor=pointer]:
+            - /url: /course-library
+          - link "Mentorship" [ref=f11e26] [cursor=pointer]:
+            - /url: /mentorship
+          - button "Career Accelerator (Job/Skill-Oriented) NEW" [ref=f11e32] [cursor=pointer]:
+            - generic [ref=f11e36]:
+              - generic [ref=f11e37]: Career Accelerator
+              - generic [ref=f11e40]: (Job/Skill-Oriented)
+            - generic [ref=f11e41]: NEW
+          - link "Practice Apps" [ref=f11e42] [cursor=pointer]:
+            - /url: /practice
+        - generic [ref=f11e47]:
+          - link "Contact Us" [ref=f11e48] [cursor=pointer]:
+            - /url: /contact-us
+          - button "Resources" [ref=f11e52] [cursor=pointer]
+          - link "Sign Up" [ref=f11e60] [cursor=pointer]:
+            - /url: https://courses.rahulshettyacademy.com/sign_up
+    - generic [ref=f11e61]:
+      - generic [ref=f11e62]: Latest
+      - generic [ref=f11e71]:
+        - generic [ref=f11e72]:
+          - generic [ref=f11e73]: ◆
+          - generic [ref=f11e74]:
+            - text: "🎤 New: QA Career Guidance Talk by Rahul Shetty — 3 hours of career strategy, AI era frameworks, and a 2026 roadmap."
+            - link "Watch Now" [ref=f11e75] [cursor=pointer]:
+              - /url: /qa-career-guidance-talk
+        - generic [ref=f11e76]:
+          - generic [ref=f11e77]: ◆
+          - generic [ref=f11e78]: "🚀 Just Released: New K6 Performance Testing Masterclass is now live- Checkout in Course library"
+        - generic [ref=f11e79]:
+          - generic [ref=f11e80]: ◆
+          - generic [ref=f11e81]:
+            - text: "💼 Get Shortlisted by Recruiters: Take QA skill assessments on"
+            - link "TechSmartHire" [ref=f11e82] [cursor=pointer]:
+              - /url: https://techsmarthire.com
+            - text: and unlock real job opportunities
+        - generic [ref=f11e83]:
+          - generic [ref=f11e84]: ◆
+          - generic [ref=f11e85]:
+            - text: "🧪 New Automation Playground: Practice Web & API Automation on our"
+            - link "Full Stack Event Hub demo application" [ref=f11e86] [cursor=pointer]:
+              - /url: https://eventhub.rahulshettyacademy.com/
+        - generic [ref=f11e87]:
+          - generic [ref=f11e88]: ◆
+          - generic [ref=f11e89]: "🤖 Agentic AI is here: Claude Code-powered QA workflows now covered in the Gen AI & AI Agents Testing course — watch the new additions."
+        - generic [ref=f11e90]:
+          - generic [ref=f11e91]: ◆
+          - generic [ref=f11e92]: 🔥 ISTQB AI Testing course crosses 1,500 students in just 14 days — Surge in demand for Certs
+        - generic [ref=f11e93]:
+          - generic [ref=f11e94]: ◆
+          - generic [ref=f11e95]:
+            - text: "🎓 Limited-Time Access: Unlock 40+ QA & AI courses with"
+            - link "All-Access Membership" [ref=f11e96] [cursor=pointer]:
+              - /url: /all-access-subscription
+            - text: for just $129*
+        - generic [ref=f11e97]:
+          - generic [ref=f11e98]: ◆
+          - generic [ref=f11e99]: "📈 Playwright Surge is Real: Learning consumption has increased by 250%+ in the last quarter"
+        - generic [ref=f11e100]:
+          - generic [ref=f11e101]: ─ ─ ─ ─ ─
+          - generic [ref=f11e102]:
+            - text: 📬 That's all for now —
+            - link "Subscribe to our Newsletter" [ref=f11e103] [cursor=pointer]:
+              - /url: https://courses.rahulshettyacademy.com/sign_up
+            - text: and get updates like these once a month.
+        - generic [ref=f11e104]:
+          - generic [ref=f11e105]: ◆
+          - generic [ref=f11e106]:
+            - text: "🎤 New: QA Career Guidance Talk by Rahul Shetty — 3 hours of career strategy, AI era frameworks, and a 2026 roadmap."
+            - link "Watch Now" [ref=f11e107] [cursor=pointer]:
+              - /url: /qa-career-guidance-talk
+        - generic [ref=f11e108]:
+          - generic [ref=f11e109]: ◆
+          - generic [ref=f11e110]: "🚀 Just Released: New K6 Performance Testing Masterclass is now live- Checkout in Course library"
+        - generic [ref=f11e111]:
+          - generic [ref=f11e112]: ◆
+          - generic [ref=f11e113]:
+            - text: "💼 Get Shortlisted by Recruiters: Take QA skill assessments on"
+            - link "TechSmartHire" [ref=f11e114] [cursor=pointer]:
+              - /url: https://techsmarthire.com
+            - text: and unlock real job opportunities
+        - generic [ref=f11e115]:
+          - generic [ref=f11e116]: ◆
+          - generic [ref=f11e117]:
+            - text: "🧪 New Automation Playground: Practice Web & API Automation on our"
+            - link "Full Stack Event Hub demo application" [ref=f11e118] [cursor=pointer]:
+              - /url: https://eventhub.rahulshettyacademy.com/
+        - generic [ref=f11e119]:
+          - generic [ref=f11e120]: ◆
+          - generic [ref=f11e121]: "🤖 Agentic AI is here: Claude Code-powered QA workflows now covered in the Gen AI & AI Agents Testing course — watch the new additions."
+        - generic [ref=f11e122]:
+          - generic [ref=f11e123]: ◆
+          - generic [ref=f11e124]: 🔥 ISTQB AI Testing course crosses 1,500 students in just 14 days — Surge in demand for Certs
+        - generic [ref=f11e125]:
+          - generic [ref=f11e126]: ◆
+          - generic [ref=f11e127]:
+            - text: "🎓 Limited-Time Access: Unlock 40+ QA & AI courses with"
+            - link "All-Access Membership" [ref=f11e128] [cursor=pointer]:
+              - /url: /all-access-subscription
+            - text: for just $129*
+        - generic [ref=f11e129]:
+          - generic [ref=f11e130]: ◆
+          - generic [ref=f11e131]: "📈 Playwright Surge is Real: Learning consumption has increased by 250%+ in the last quarter"
+        - generic [ref=f11e132]:
+          - generic [ref=f11e133]: ─ ─ ─ ─ ─
+          - generic [ref=f11e134]:
+            - text: 📬 That's all for now —
+            - link "Subscribe to our Newsletter" [ref=f11e135] [cursor=pointer]:
+              - /url: https://courses.rahulshettyacademy.com/sign_up
+            - text: and get updates like these once a month.
+    - generic [ref=f11e138]:
+      - 'heading "Your AI Journey Starts Here: From Zero to Hero" [level=1] [ref=f11e139]'
+      - paragraph [ref=f11e140]: Learn from Rahul Shetty, an instructor with over 1 Million students, and master the essential AI skills for tomorrow's job market.
+      - generic [ref=f11e141]:
+        - button "Explore Paths" [ref=f11e142] [cursor=pointer]
+        - button "Meet Your Instructor" [ref=f11e143] [cursor=pointer]
+    - generic [ref=f11e145]:
+      - heading "AI Learning Paths" [level=2] [ref=f11e146]
+      - generic [ref=f11e147]:
+        - generic [ref=f11e149]:
+          - generic [ref=f11e154]:
+            - generic [ref=f11e155]: Learning Path 1
+            - heading "Learn Gen AI tools & Agentic AI to boost QA Productivity" [level=3] [ref=f11e156]
+            - paragraph [ref=f11e157]: Explore tools and technologies that can autonomously build solutions on your behalf and significantly boost your project productivity at work.
+          - button "View Courses in This Path" [ref=f11e158] [cursor=pointer]
+        - generic [ref=f11e160]:
+          - generic [ref=f11e165]:
+            - generic [ref=f11e166]: Learning Path 2
+            - heading "Learn the Tools and Frameworks for Testing AI Applications" [level=3] [ref=f11e167]
+            - paragraph [ref=f11e168]: If everyone is using AI in their work, there must be someone to test it. Learn the tools, frameworks, and methodologies to test AI systems effectively.
+          - button "View Courses in This Path" [ref=f11e169] [cursor=pointer]
+        - generic [ref=f11e171]:
+          - generic [ref=f11e175]:
+            - generic [ref=f11e176]: Learning Path 3
+            - heading "AI Development Essentials for QA Architects" [level=3] [ref=f11e177]
+            - paragraph [ref=f11e178]: Master essential AI development skills with hands-on courses in MCP servers and LangChain to architect advanced testing solutions.
+          - button "View Courses in This Path" [ref=f11e179] [cursor=pointer]
+    - generic [ref=f11e181]:
+      - heading "Our Comprehensive Learning Paths" [level=2] [ref=f11e182]
+      - generic [ref=f11e183]:
+        - generic [ref=f11e184]:
+          - generic [ref=f11e185]:
+            - generic [ref=f11e186]: Learning Path 1
+            - heading "Learn Gen AI tools & Agentic AI to boost QA Productivity" [level=3] [ref=f11e187]
+          - generic [ref=f11e188]:
+            - generic [ref=f11e189]:
+              - generic [ref=f11e190]:
+                - heading "Course 1.1 – Learn GenAI Tools & AI Agents for Software Testing" [level=3] [ref=f11e191]
+                - paragraph [ref=f11e192]: Unlock Generative AI for technical solutions and integrate AI Agents into your workflows.
+              - generic [ref=f11e193]:
+                - list [ref=f11e194]:
+                  - listitem [ref=f11e195]: How to effectively use GenAI Plugins to generate automation scripts, database queries, test artifacts
+                  - listitem [ref=f11e199]: Automate solution-building inside tools like VS Code, IntelliJ, Cursor using Agent Mode
+                  - listitem [ref=f11e203]: Understand how AI Agents work with MCP (Model Context Protocol) servers to connect AI tools with real-world systems and data
+                  - listitem [ref=f11e207]: Explore Claude Code's Skills system to build reusable, custom AI-powered testing workflows
+                  - listitem [ref=f11e211]: Strategic approach of using AI into Test frameworks with claude code
+                  - listitem [ref=f11e215]: Create your own custom subagents in GitHub Copilot and delegate tasks to Copilot's cloud coding agents
+                - link "View Curriculum" [ref=f11e220] [cursor=pointer]:
+                  - /url: /generative-ai-agents-qa-automation
+            - generic [ref=f11e221]:
+              - generic [ref=f11e222]:
+                - heading "Course 1.2 – Learn Agentic AI – Build Multi-Agent Automation Workflows" [level=3] [ref=f11e223]
+                - paragraph [ref=f11e224]: Build sophisticated multi-agent systems for autonomous interaction with various platforms.
+              - generic [ref=f11e225]:
+                - list [ref=f11e226]:
+                  - listitem [ref=f11e227]: Understand the fundamentals of Agentic AI in Quality Engineering Platforms such as TestMu AI and how it transforms modern testing
+                  - listitem [ref=f11e231]: Generate Use cases, test scenarios, and build automated tests from natural language, Jira tickets, PRDs, and real-world inputs
+                  - listitem [ref=f11e235]: Leverage AI-powered Test Intelligence for error classification, root cause analysis, and flakiness detection
+                  - listitem [ref=f11e239]: Build multi-agent workflows with (Jira, browsers, databases, API, Excel) Agents
+                  - listitem [ref=f11e243]: Learn core Agentic AI patterns using Microsoft AutoGen Framework
+                - link "View Curriculum" [ref=f11e248] [cursor=pointer]:
+                  - /url: /agentic-ai-multi-agent-workflows
+        - generic [ref=f11e249]:
+          - generic [ref=f11e250]:
+            - generic [ref=f11e251]: Learning Path 2
+            - heading "Learn the Tools and Frameworks for Testing AI Applications" [level=3] [ref=f11e252]
+          - generic [ref=f11e253]:
+            - generic [ref=f11e254]:
+              - generic [ref=f11e255]:
+                - 'heading "Course 2.1 – Testing AI Systems with DeepEval: AI Agents, Chatbots & RAG" [level=3] [ref=f11e256]'
+                - paragraph [ref=f11e257]: Test AI Agents, Chatbots & RAG Apps with DeepEval using Metrics, Tracing, Goldens, Safety Evals & G-Eval Custom Metrics
+              - generic [ref=f11e258]:
+                - list [ref=f11e259]:
+                  - listitem [ref=f11e260]: Understand AI Testing fundamentals and set up the DeepEval framework to evaluate AI Agents, Chatbots, and RAG applications
+                  - listitem [ref=f11e264]: Measure AI quality with industry-standard metrics (Answer Relevancy, Faithfulness, Precision, Recall, G-Eval) and build custom evaluation metrics
+                  - listitem [ref=f11e268]: Perform trace-based, component-level testing of AI agent workflows and manage Golden Datasets for repeatable evaluation pipelines
+                  - listitem [ref=f11e272]: Test multi-turn chatbot conversations and evaluate RAG apps on retrieval quality, context utilization, and factual correctness
+                  - listitem [ref=f11e276]: Generate synthetic test data, run AI Safety Testing for harmful/biased outputs, and automate it all with Python
+                - link "View Curriculum" [ref=f11e281] [cursor=pointer]:
+                  - /url: /rag-llm-ai-test-automation
+            - generic [ref=f11e282]:
+              - generic [ref=f11e283]:
+                - heading "Course 2.2 – Introduction to Machine Learning Models (AI) Testing" [level=3] [ref=f11e284]
+                - paragraph [ref=f11e285]: Learn to test Machine Learning models end-to-end with confidence.
+              - generic [ref=f11e286]:
+                - list [ref=f11e287]:
+                  - listitem [ref=f11e288]: Understanding Lifecycle of Machine Learning Models and their testing Scope
+                  - listitem [ref=f11e292]: Test for issues like overfitting, bias, Data Drift & Concept Drift
+                  - listitem [ref=f11e296]: QA Functional Testing in ML Validation Phase with 25 different Testing types
+                  - listitem [ref=f11e300]: Responsible AI Testing for Machine Learning Models
+                - link "View Curriculum" [ref=f11e305] [cursor=pointer]:
+                  - /url: /machine-learning-ai-model-testing
+            - generic [ref=f11e306]:
+              - generic [ref=f11e307]:
+                - heading "ISTQB-(CT-AI) Certified Tester" [level=3] [ref=f11e308]
+                - paragraph [ref=f11e309]: Get certified with our practical, exam-based training along with quizzes on how to test ML Models & LLM's, ensuring end-to-end quality and reliability.
+              - generic [ref=f11e310]:
+                - list [ref=f11e311]:
+                  - listitem [ref=f11e312]: Comprehensive ISTQB CT-AI syllabus coverage for AI testing principles
+                  - listitem [ref=f11e316]: Practical training on ML model validation and verification techniques
+                  - listitem [ref=f11e320]: Hands-on experience with LLM testing frameworks and methodologies
+                  - listitem [ref=f11e324]: Mock exams and practice quizzes to ensure certification success
+                - link "View Curriculum" [ref=f11e329] [cursor=pointer]:
+                  - /url: /istqb-ai-testing-ct-ai-certification
+        - generic [ref=f11e330]:
+          - generic [ref=f11e331]:
+            - generic [ref=f11e332]: Learning Path 3
+            - heading "AI Development Essentials for QA Architects" [level=3] [ref=f11e333]
+          - generic [ref=f11e334]:
+            - generic [ref=f11e335]:
+              - generic [ref=f11e336]:
+                - heading "Course 3.1 – Build Your Own MCP Servers with TypeScript - Beginner's Guide" [level=3] [ref=f11e337]
+                - paragraph [ref=f11e338]: Learn to build Model Context Protocol (MCP) servers from scratch using TypeScript and extend AI capabilities.
+              - generic [ref=f11e339]:
+                - list [ref=f11e340]:
+                  - listitem [ref=f11e341]: Understand MCP architecture and its role in AI systems
+                  - listitem [ref=f11e345]: Build custom MCP servers using TypeScript
+                  - listitem [ref=f11e349]: Integrate MCP servers with AI agents and tools
+                  - listitem [ref=f11e353]: Deploy and test MCP server implementations
+                - link "View Curriculum" [ref=f11e358] [cursor=pointer]:
+                  - /url: https://courses.rahulshettyacademy.com/p/build-your-own-mcp-servers-with-typescript-beginners-guide
+            - generic [ref=f11e359]:
+              - generic [ref=f11e360]:
+                - heading "Course 3.2 – LangChain Framework for Beginners – Build AI Systems + RAG" [level=3] [ref=f11e361]
+                - paragraph [ref=f11e362]: Learn LangChain 1.0 Typescript with AI Agents, Tools, RAG Pipelines, Agentic RAG, MCP Integration & LangGraph Deployment
+              - generic [ref=f11e363]:
+                - list [ref=f11e364]:
+                  - listitem [ref=f11e365]: Build AI Agents with tools, memory, and multi-model configs
+                  - listitem [ref=f11e369]: Create custom tools with Zod validation
+                  - listitem [ref=f11e373]: Implement dynamic prompts and middleware
+                  - listitem [ref=f11e377]: Design RAG pipelines with vector stores
+                  - listitem [ref=f11e381]: Integrate with APIs, databases, and MCP servers
+                  - listitem [ref=f11e385]: Deploy LangGraph servers with tracing
+                - link "View Curriculum" [ref=f11e390] [cursor=pointer]:
+                  - /url: /langchain-framework-ai-systems-rag
+        - generic [ref=f11e391]:
+          - generic [ref=f11e392]: Best Value — All 3 AI Paths
+          - paragraph [ref=f11e393]: Get every course across Learning Path 1, Learning Path 2 & Learning Path 3 — all 7 AI testing courses in one bundle.
+          - button "Buy AI Bundle — $59" [ref=f11e395] [cursor=pointer]
+    - generic [ref=f11e398]:
+      - heading "All Access Membership" [level=2] [ref=f11e399]
+      - generic [ref=f11e401]:
+        - generic [ref=f11e402]:
+          - generic [ref=f11e403]:
+            - heading "Lifetime Access" [level=3] [ref=f11e407]
+            - paragraph [ref=f11e408]: Enjoy continuous learning with lifetime access, including all future content updates.
+          - generic [ref=f11e409]:
+            - heading "\"AI in Quality Engineering\" Certification" [level=3] [ref=f11e414]
+            - paragraph [ref=f11e415]: Receive a professional certification upon completion of all courses in the path.
+          - generic [ref=f11e416]:
+            - heading "Resume & Interview Prep" [level=3] [ref=f11e421]
+            - paragraph [ref=f11e422]: Get expert assistance with resume building and interview preparation to land your dream job.
+          - generic [ref=f11e423]:
+            - generic [ref=f11e424]:
+              - heading "Practice Exercises, Assignments & Quizzes" [level=3] [ref=f11e429]
+              - paragraph [ref=f11e430]: Reinforce your learning with hands-on exercises, practical assignments, and challenging quizzes.
+            - generic [ref=f11e431]:
+              - heading "Career Guidance" [level=3] [ref=f11e436]
+              - paragraph [ref=f11e437]: Get personalized career guidance and mentorship to accelerate your professional growth in AI testing.
+        - generic [ref=f11e438]:
+          - paragraph [ref=f11e439]: • Get Lifetime Access to all QA Automation and AI Testing Courses (40+ Site wide)• Get access to future courses as well
+          - button "Learn More About Lifetime Access" [ref=f11e440] [cursor=pointer]
+    - generic [ref=f11e443]:
+      - generic [ref=f11e444]:
+        - heading "Meet Your Instructor" [level=2] [ref=f11e445]
+        - paragraph [ref=f11e446]: Learn from one of the world's most recognized QA Automation experts
+      - generic [ref=f11e450]:
+        - generic [ref=f11e451]:
+          - img "Rahul Shetty" [ref=f11e453]
+          - generic [ref=f11e454]:
+            - link "LinkedIn" [ref=f11e455] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/rahul-shetty-venkatesh/
+            - link "Udemy Portfolio" [ref=f11e461] [cursor=pointer]:
+              - /url: https://www.udemy.com/user/rahul445
+            - link "TechSmartHire" [ref=f11e466] [cursor=pointer]:
+              - /url: https://techsmarthire.com
+            - link "YouTube" [ref=f11e471] [cursor=pointer]:
+              - /url: https://www.youtube.com/@RahulShettyAcademy
+            - link "Instagram" [ref=f11e476] [cursor=pointer]:
+              - /url: https://www.instagram.com/rahulshettyacademy_qa/
+        - generic [ref=f11e482]:
+          - heading "Rahul Shetty" [level=3] [ref=f11e483]
+          - paragraph [ref=f11e484]: QA Instructor | Founder of Rahul Shetty Academy, QASummit & TechSmartHire
+          - generic [ref=f11e485]:
+            - generic [ref=f11e486]:
+              - generic [ref=f11e487]: 1M+
+              - generic [ref=f11e488]: Students
+            - generic [ref=f11e489]:
+              - generic [ref=f11e490]: 30+
+              - generic [ref=f11e491]: Courses
+            - generic [ref=f11e492]:
+              - generic [ref=f11e493]: "4.6"
+              - generic [ref=f11e494]: Avg Rating
+            - generic [ref=f11e495]:
+              - generic [ref=f11e496]: "195"
+              - generic [ref=f11e497]: Countries
+          - paragraph [ref=f11e498]: Rahul Shetty (aka Venkatesh) is one of Udemy's most successful QA instructors, with over 1 million students from 195 countries and 30+ courses spanning Selenium, Playwright, AI Testing, Postman, Cypress, Appium, and more. His teaching style — practical, no-fluff, real-world — has made him the go-to name for QA professionals at every stage of their career. Building on that teaching success, Rahul co-founded TechSmartHire and organizes QASummit, putting him at the intersection of QA education, real hiring outcomes, and community leadership. That combination of 15+ years of hands-on industry experience and direct insight into what employers actually look for makes him uniquely qualified to curate these learning paths — each one designed to take you from fundamentals to job-ready as efficiently as possible.
+          - generic [ref=f11e499]:
+            - generic [ref=f11e500]: Founder of Rahul Shetty Academy — leading EdTech platform for QA training globally
+            - generic [ref=f11e505]: Co-founder of TechSmartHire — skill-based platform connecting QA talent with top recruiters
+            - generic [ref=f11e510]: Organizer of QASummit — premier offline QA conference brand
+            - generic [ref=f11e515]: 15+ years of industry experience in QA & Test Automation
+            - generic [ref=f11e520]: Trained 1M+ QA professionals across 195 countries
+    - generic [ref=f11e527]:
+      - generic [ref=f11e528]: Exclusive Academy Access
+      - heading "JOIN OUR ACADEMY" [level=2] [ref=f11e531]
+      - paragraph [ref=f11e532]: Get access to exclusive monthly QA newsletter covering the latest QA & AI testing trends, job openings, new course offerings, and practice projects — completely free when you sign up.
+      - paragraph [ref=f11e533]: Oh, and you also get 2 premium courses for free for a limited time. Just search for below titles after signing up and enroll right away — no payment needed.
+      - generic [ref=f11e534]:
+        - generic [ref=f11e535]: Java Design Patterns for Test Framework
+        - generic [ref=f11e539]: SDET/QA Automation Interview Kit + Java Logic Programs
+      - generic [ref=f11e544]:
+        - link "JOIN NOW - FREE ACCESS" [ref=f11e545] [cursor=pointer]:
+          - /url: https://courses.rahulshettyacademy.com/sign_up
+        - paragraph [ref=f11e546]: Limited time offer - Usually $197, now FREE!
+    - generic [ref=f11e550]:
+      - generic [ref=f11e551]:
+        - heading "Frequently Asked Questions" [level=2] [ref=f11e552]
+        - paragraph [ref=f11e553]: Find answers to common questions about our platform and courses
+      - generic [ref=f11e556]:
+        - heading [level=3] [ref=f11e558]:
+          - button "What is the AI Learning Path?" [ref=f11e559] [cursor=pointer]
+        - heading [level=3] [ref=f11e564]:
+          - button "Do I need prior programming experience?" [ref=f11e565] [cursor=pointer]
+        - heading [level=3] [ref=f11e570]:
+          - button "What skills will I gain?" [ref=f11e571] [cursor=pointer]
+        - heading [level=3] [ref=f11e576]:
+          - button "Is this useful for career growth?" [ref=f11e577] [cursor=pointer]
+        - heading [level=3] [ref=f11e582]:
+          - button "Are projects included?" [ref=f11e583] [cursor=pointer]
+        - heading [level=3] [ref=f11e588]:
+          - button "Do I get certificates?" [ref=f11e589] [cursor=pointer]
+        - heading [level=3] [ref=f11e594]:
+          - button "How long does it take to finish?" [ref=f11e595] [cursor=pointer]
+        - heading [level=3] [ref=f11e600]:
+          - button "Can I take courses separately?" [ref=f11e601] [cursor=pointer]
+    - contentinfo [ref=f11e605]:
+      - generic [ref=f11e606]:
+        - generic [ref=f11e607]:
+          - generic [ref=f11e608]:
+            - generic [ref=f11e609]:
+              - heading "RAHUL SHETTY" [level=3] [ref=f11e610]
+              - paragraph [ref=f11e611]: Transforming careers through comprehensive QA testing education. Join 1M+ learners worldwide.
+            - link "Contact Us" [ref=f11e612] [cursor=pointer]:
+              - /url: /contact-us
+            - generic [ref=f11e616]:
+              - heading "Connect us on Socials" [level=4] [ref=f11e617]
+              - generic [ref=f11e618]:
+                - link [ref=f11e619] [cursor=pointer]:
+                  - /url: https://www.youtube.com/channel/UCgx5SDcUQWCQ_1CNneQzCRw
+                - link [ref=f11e623] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/rahul-shetty-venkatesh/
+                - link [ref=f11e628] [cursor=pointer]:
+                  - /url: https://www.instagram.com/rahulshettyofficial_venkat/
+          - generic [ref=f11e632]:
+            - heading "Navigation" [level=4] [ref=f11e633]
+            - generic [ref=f11e634]:
+              - link "All-Access" [ref=f11e635] [cursor=pointer]:
+                - /url: /all-access-subscription
+              - link "Learning Paths" [ref=f11e636] [cursor=pointer]:
+                - /url: /learning-paths
+              - link "Mentorship" [ref=f11e637] [cursor=pointer]:
+                - /url: /mentorship
+              - link "Career Accelerator" [ref=f11e638] [cursor=pointer]:
+                - /url: /qa-career-accelerator-job-ready
+              - link "Team Accelerator" [ref=f11e639] [cursor=pointer]:
+                - /url: /qa-career-accelerator-for-teams
+              - link "AI Learning PathNEW" [ref=f11e640] [cursor=pointer]:
+                - /url: /ai-learning-path
+              - link "Practice" [ref=f11e641] [cursor=pointer]:
+                - /url: /practice
+              - link "Meet ups" [ref=f11e642] [cursor=pointer]:
+                - /url: https://qasummit.org
+              - link "Blog" [ref=f11e643] [cursor=pointer]:
+                - /url: https://rahulshettyacademy.com/blog/
+              - link "Contact Us" [ref=f11e644] [cursor=pointer]:
+                - /url: /contact-us
+          - generic [ref=f11e645]:
+            - heading "Popular Courses" [level=4] [ref=f11e646]
+            - generic [ref=f11e647]:
+              - link "Selenium WebDriver" [ref=f11e648] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/selenium-webdriver-interview-questions-tutorial-1
+              - link "Playwright Testing" [ref=f11e649] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/playwright-js-ts-automation-testing-from-scratch-framework
+              - link "API Testing" [ref=f11e650] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/rest-api-automation-rest-assured-java
+              - link "AI Agents" [ref=f11e651] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/learn-agentic-ai-build-multi-agent-automation-workflow
+              - link "AI Testing Tools" [ref=f11e652] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/learn-generativen-ai-in-software-testing
+              - link "Browse All Courses" [ref=f11e653] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/courses
+          - generic [ref=f11e654]:
+            - heading "Support" [level=4] [ref=f11e655]
+            - generic [ref=f11e656]:
+              - link "Student Login" [ref=f11e657] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/sign_in
+              - link "Contact Us" [ref=f11e658] [cursor=pointer]:
+                - /url: /contact-us
+              - link "Help Center" [ref=f11e659] [cursor=pointer]:
+                - /url: "#"
+              - link "Community" [ref=f11e660] [cursor=pointer]:
+                - /url: "#"
+              - link "Terms of Service" [ref=f11e661] [cursor=pointer]:
+                - /url: /terms-of-service
+              - link "Privacy Policy" [ref=f11e662] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=f11e664]:
+          - generic [ref=f11e665]:
+            - paragraph [ref=f11e666]: © 2026 Rahul Shetty Academy. All rights reserved.
+            - generic [ref=f11e667]: •
+            - generic [ref=f11e668]: Built with ♥ for testers worldwide.
+          - generic [ref=f11e670]:
+            - generic [ref=f11e671]: contact@rahulshettyacademy.com
+            - generic [ref=f11e672]: Trusted by 1M+ QA Engineers
+    - generic [ref=f11e677]:
+      - button "Buy AI Bundle — $59" [ref=f11e678] [cursor=pointer]
+      - paragraph [ref=f11e679]: "* All 7 AI testing courses in one bundle"

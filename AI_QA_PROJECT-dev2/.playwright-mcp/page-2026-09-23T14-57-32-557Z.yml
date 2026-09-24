@@ -1,0 +1,142 @@
+- generic [ref=f12e2]:
+  - banner [ref=f12e3]:
+    - generic [ref=f12e8]:
+      - link [ref=f12e11] [cursor=pointer]:
+        - /url: https://rahulshettyacademy.com/blog
+        - img "Rahul Shetty Academy Login" [ref=f12e13]
+      - list [ref=f12e19]:
+        - listitem [ref=f12e20] [cursor=pointer]:
+          - link "QA Interviews" [ref=f12e21]:
+            - /url: https://rahulshettyacademy.com/blog/index.php/automation-testing-interview-questions/
+        - listitem [ref=f12e23] [cursor=pointer]:
+          - link "Core Java" [ref=f12e24]:
+            - /url: https://rahulshettyacademy.com/blog/index.php/java-tutorial/
+        - listitem [ref=f12e26] [cursor=pointer]:
+          - link "Selenium" [ref=f12e27]:
+            - /url: https://rahulshettyacademy.com/blog/index.php/selenium-tutorial/
+        - listitem [ref=f12e29] [cursor=pointer]:
+          - link "Python Automation" [ref=f12e30]:
+            - /url: https://rahulshettyacademy.com/blog/index.php/python-automation-tutorial/
+      - link "Join our Courses" [ref=f12e36] [cursor=pointer]:
+        - /url: https://courses.rahulshettyacademy.com/courses
+  - generic [ref=f12e44]:
+    - generic:
+      - insertion
+    - generic [ref=f12e46]:
+      - heading "World Class Software Testing Materials" [level=1] [ref=f12e51]
+      - generic [ref=f12e53]:
+        - link [ref=f12e57] [cursor=pointer]:
+          - /url: https://rahulshettyacademy.com/blog/index.php/automation-testing-interview-questions/
+          - strong [ref=f12e60]: Top 500+ QA Automation Interview Questions (All Categories)
+        - link [ref=f12e64] [cursor=pointer]:
+          - /url: https://rahulshettyacademy.com/blog/index.php/qa-career-guidance-videos-from-rahul-shetty/
+          - strong [ref=f12e67]: QA Career Guidance videos from Rahul Shetty
+        - link [ref=f12e72] [cursor=pointer]:
+          - /url: https://rahulshettyacademy.com/blog/index.php/category/software-testing/
+          - strong [ref=f12e75]: Software Testing Basics With Examples
+      - link [ref=f12e77] [cursor=pointer]:
+        - /url: https://rahulshettyacademy.com/blog/index.php/2023/06/29/playwright-interview-questions/
+        - strong [ref=f12e80]: Playwright Interview Questions
+      - generic [ref=f12e83]:
+        - paragraph [ref=f12e87]: Get Lifetime Access to 30+ QA Automation Courses With Single Subscription
+        - link [ref=f12e92] [cursor=pointer]:
+          - /url: https://rahulshettyacademy.com/lifetime-access
+          - strong [ref=f12e95]: Click Here
+      - separator [ref=f12e97]
+      - generic [ref=f12e99]:
+        - link [ref=f12e103] [cursor=pointer]:
+          - /url: https://rahulshettyacademy.com/blog/index.php/selenium-tutorial/
+          - strong [ref=f12e106]: Selenium WebDriver Tutorial (Java)
+        - link [ref=f12e110] [cursor=pointer]:
+          - /url: https://rahulshettyacademy.com/blog/index.php/java-tutorial/
+          - strong [ref=f12e113]: Core Java Tutorial for Testers
+        - link [ref=f12e117] [cursor=pointer]:
+          - /url: https://rahulshettyacademy.com/blog/index.php/python-automation-tutorial/
+          - strong [ref=f12e120]: Python Automation Testing
+      - generic [ref=f12e122]:
+        - link [ref=f12e127] [cursor=pointer]:
+          - /url: https://rahulshettyacademy.com/blog/index.php/appium-tutorial/
+          - strong [ref=f12e130]: Appium - Mobile Automation Tutorials
+        - link [ref=f12e134] [cursor=pointer]:
+          - /url: https://rahulshettyacademy.com/blog/index.php/api-testing-interview-questions/
+          - strong [ref=f12e137]: API Testing
+      - link [ref=f12e139] [cursor=pointer]:
+        - /url: https://rahulshettyacademy.com/blog/index.php/playwright-automation-testing/
+        - strong [ref=f12e142]: Playwright Automation Testing
+      - separator [ref=f12e144]
+      - heading [level=2] [ref=f12e149]:
+        - strong [ref=f12e150]: Latest in Selenium Series
+      - generic [ref=f12e151]:
+        - article [ref=f12e152]:
+          - generic [ref=f12e158]:
+            - heading [level=3] [ref=f12e160]:
+              - link "DesiredCapabilities/BrowserOptions in Selenium" [ref=f12e162] [cursor=pointer]:
+                - /url: https://rahulshettyacademy.com/blog/index.php/2023/11/26/desiredcapabilities-browseroptions-in-selenium/
+            - link "Read More" [ref=f12e164] [cursor=pointer]:
+              - /url: https://rahulshettyacademy.com/blog/index.php/2023/11/26/desiredcapabilities-browseroptions-in-selenium/
+        - article [ref=f12e167]:
+          - generic [ref=f12e173]:
+            - heading [level=3] [ref=f12e175]:
+              - link "Groups attribute in TestNG" [ref=f12e177] [cursor=pointer]:
+                - /url: https://rahulshettyacademy.com/blog/index.php/2023/11/25/groups-attribute-in-testng/
+            - link "Read More" [ref=f12e179] [cursor=pointer]:
+              - /url: https://rahulshettyacademy.com/blog/index.php/2023/11/25/groups-attribute-in-testng/
+        - article [ref=f12e182]:
+          - generic [ref=f12e188]:
+            - heading [level=3] [ref=f12e190]:
+              - link "Priority attribute in TestNG" [ref=f12e192] [cursor=pointer]:
+                - /url: https://rahulshettyacademy.com/blog/index.php/2023/11/24/priority-attribute-in-testng/
+            - link "Read More" [ref=f12e194] [cursor=pointer]:
+              - /url: https://rahulshettyacademy.com/blog/index.php/2023/11/24/priority-attribute-in-testng/
+      - separator [ref=f12e198]
+      - heading [level=2] [ref=f12e203]:
+        - strong [ref=f12e204]: Latest in Appium Series
+      - generic [ref=f12e205]:
+        - article [ref=f12e206]:
+          - generic [ref=f12e212]:
+            - heading [level=3] [ref=f12e214]:
+              - link "Get Started with Appium" [ref=f12e216] [cursor=pointer]:
+                - /url: https://rahulshettyacademy.com/blog/index.php/2021/07/25/get-started-with-appium/
+            - link "Read More" [ref=f12e218] [cursor=pointer]:
+              - /url: https://rahulshettyacademy.com/blog/index.php/2021/07/25/get-started-with-appium/
+        - article [ref=f12e221]:
+          - generic [ref=f12e227]:
+            - heading [level=3] [ref=f12e229]:
+              - link "Inspecting Native Apps Element (Android and iOS)" [ref=f12e231] [cursor=pointer]:
+                - /url: https://rahulshettyacademy.com/blog/index.php/2021/07/07/inspecting-native-apps-element-android-and-ios/
+            - link "Read More" [ref=f12e233] [cursor=pointer]:
+              - /url: https://rahulshettyacademy.com/blog/index.php/2021/07/07/inspecting-native-apps-element-android-and-ios/
+        - article [ref=f12e236]:
+          - generic [ref=f12e242]:
+            - heading [level=3] [ref=f12e244]:
+              - 'link "Appium : Inspecting elements using UIAutomatorViewer" [ref=f12e246] [cursor=pointer]':
+                - /url: https://rahulshettyacademy.com/blog/index.php/2021/06/13/appium-inspecting-elements-using-uiautomatorviewer/
+            - link "Read More" [ref=f12e248] [cursor=pointer]:
+              - /url: https://rahulshettyacademy.com/blog/index.php/2021/06/13/appium-inspecting-elements-using-uiautomatorviewer/
+      - separator [ref=f12e252]
+      - heading [level=2] [ref=f12e260]:
+        - strong [ref=f12e261]: Latest in Software Testing Series
+      - generic [ref=f12e262]:
+        - article [ref=f12e263]:
+          - generic [ref=f12e269]:
+            - heading [level=3] [ref=f12e271]:
+              - 'link "Software Testing: Static Testing Techniques" [ref=f12e273] [cursor=pointer]':
+                - /url: https://rahulshettyacademy.com/blog/index.php/2021/07/21/software-testing-static-testing-techniques/
+            - link "Read More" [ref=f12e275] [cursor=pointer]:
+              - /url: https://rahulshettyacademy.com/blog/index.php/2021/07/21/software-testing-static-testing-techniques/
+        - article [ref=f12e278]:
+          - generic [ref=f12e284]:
+            - heading [level=3] [ref=f12e286]:
+              - 'link "Software Testing: Bug Life Cycle" [ref=f12e288] [cursor=pointer]':
+                - /url: https://rahulshettyacademy.com/blog/index.php/2021/07/17/software-testing-bug-life-cycle/
+            - link "Read More" [ref=f12e290] [cursor=pointer]:
+              - /url: https://rahulshettyacademy.com/blog/index.php/2021/07/17/software-testing-bug-life-cycle/
+        - article [ref=f12e293]:
+          - generic [ref=f12e299]:
+            - heading [level=3] [ref=f12e301]:
+              - 'link "Software Testing: Test Design Techniques" [ref=f12e303] [cursor=pointer]':
+                - /url: https://rahulshettyacademy.com/blog/index.php/2021/07/17/software-testing-test-design-techniques/
+            - link "Read More" [ref=f12e305] [cursor=pointer]:
+              - /url: https://rahulshettyacademy.com/blog/index.php/2021/07/17/software-testing-test-design-techniques/
+  - contentinfo [ref=f12e312]:
+    - paragraph [ref=f12e317]: Copyright 2026 RahulShettyAcademy, all rights reserved.

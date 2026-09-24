@@ -1,0 +1,2 @@
+[    2538ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://rahulshettyacademy.com/client/#/auth/login:0
+[    4259ms] [ERROR] Failed to load resource: net::ERR_CERT_DATE_INVALID @ https://connect.facebook.net/en_US/fbevents.js:0

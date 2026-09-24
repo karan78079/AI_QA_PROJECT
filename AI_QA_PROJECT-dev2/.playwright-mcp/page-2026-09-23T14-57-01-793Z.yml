@@ -1,0 +1,612 @@
+- generic [ref=f10e2]:
+  - region "Notifications (F8)":
+    - list
+  - region "Notifications alt+T"
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - generic: Limited Time — Free
+          - button "Dismiss popup"
+        - generic:
+          - heading "Join Our Academy & Unlock 2 Premium Courses — FREE" [level=3]: Join Our Academy & Unlock2 Premium Courses — FREE
+          - paragraph: Sign up once. No credit card. Instant access.
+        - list:
+          - listitem:
+            - generic: Java Design Patterns for Test Framework
+          - listitem:
+            - generic: SDET/QA Automation Interview Kit + Java Logic Programs
+        - link "Sign Up Free →":
+          - /url: https://courses.rahulshettyacademy.com/sign_up
+        - paragraph: Usually $197 · Now completely FREE
+  - generic [ref=f10e3]:
+    - navigation [ref=f10e4]:
+      - generic [ref=f10e6]:
+        - link [ref=f10e8] [cursor=pointer]:
+          - /url: /
+          - img "Rahul Shetty Academy" [ref=f10e9]
+        - generic [ref=f10e10]:
+          - link "Home" [ref=f10e11] [cursor=pointer]:
+            - /url: /
+          - link "All-Access" [ref=f10e15] [cursor=pointer]:
+            - /url: /all-access-subscription
+          - link "Learning Paths" [ref=f10e18] [cursor=pointer]:
+            - /url: /learning-paths
+          - link "Courses" [ref=f10e23] [cursor=pointer]:
+            - /url: /course-library
+          - link "Mentorship" [ref=f10e26] [cursor=pointer]:
+            - /url: /mentorship
+          - button "Career Accelerator (Job/Skill-Oriented) NEW" [ref=f10e32] [cursor=pointer]:
+            - generic [ref=f10e36]:
+              - generic [ref=f10e37]: Career Accelerator
+              - generic [ref=f10e40]: (Job/Skill-Oriented)
+            - generic [ref=f10e41]: NEW
+          - link "Practice Apps" [ref=f10e42] [cursor=pointer]:
+            - /url: /practice
+        - generic [ref=f10e47]:
+          - link "Contact Us" [ref=f10e48] [cursor=pointer]:
+            - /url: /contact-us
+          - button "Resources" [ref=f10e52] [cursor=pointer]
+          - link "Sign Up" [ref=f10e60] [cursor=pointer]:
+            - /url: https://courses.rahulshettyacademy.com/sign_up
+    - generic [ref=f10e61]:
+      - generic [ref=f10e62]: Latest
+      - generic [ref=f10e71]:
+        - generic [ref=f10e72]:
+          - generic [ref=f10e73]: ◆
+          - generic [ref=f10e74]:
+            - text: "🎤 New: QA Career Guidance Talk by Rahul Shetty — 3 hours of career strategy, AI era frameworks, and a 2026 roadmap."
+            - link "Watch Now" [ref=f10e75] [cursor=pointer]:
+              - /url: /qa-career-guidance-talk
+        - generic [ref=f10e76]:
+          - generic [ref=f10e77]: ◆
+          - generic [ref=f10e78]: "🚀 Just Released: New K6 Performance Testing Masterclass is now live- Checkout in Course library"
+        - generic [ref=f10e79]:
+          - generic [ref=f10e80]: ◆
+          - generic [ref=f10e81]:
+            - text: "💼 Get Shortlisted by Recruiters: Take QA skill assessments on"
+            - link "TechSmartHire" [ref=f10e82] [cursor=pointer]:
+              - /url: https://techsmarthire.com
+            - text: and unlock real job opportunities
+        - generic [ref=f10e83]:
+          - generic [ref=f10e84]: ◆
+          - generic [ref=f10e85]:
+            - text: "🧪 New Automation Playground: Practice Web & API Automation on our"
+            - link "Full Stack Event Hub demo application" [ref=f10e86] [cursor=pointer]:
+              - /url: https://eventhub.rahulshettyacademy.com/
+        - generic [ref=f10e87]:
+          - generic [ref=f10e88]: ◆
+          - generic [ref=f10e89]: "🤖 Agentic AI is here: Claude Code-powered QA workflows now covered in the Gen AI & AI Agents Testing course — watch the new additions."
+        - generic [ref=f10e90]:
+          - generic [ref=f10e91]: ◆
+          - generic [ref=f10e92]: 🔥 ISTQB AI Testing course crosses 1,500 students in just 14 days — Surge in demand for Certs
+        - generic [ref=f10e93]:
+          - generic [ref=f10e94]: ◆
+          - generic [ref=f10e95]:
+            - text: "🎓 Limited-Time Access: Unlock 40+ QA & AI courses with"
+            - link "All-Access Membership" [ref=f10e96] [cursor=pointer]:
+              - /url: /all-access-subscription
+            - text: for just $129*
+        - generic [ref=f10e97]:
+          - generic [ref=f10e98]: ◆
+          - generic [ref=f10e99]: "📈 Playwright Surge is Real: Learning consumption has increased by 250%+ in the last quarter"
+        - generic [ref=f10e100]:
+          - generic [ref=f10e101]: ─ ─ ─ ─ ─
+          - generic [ref=f10e102]:
+            - text: 📬 That's all for now —
+            - link "Subscribe to our Newsletter" [ref=f10e103] [cursor=pointer]:
+              - /url: https://courses.rahulshettyacademy.com/sign_up
+            - text: and get updates like these once a month.
+        - generic [ref=f10e104]:
+          - generic [ref=f10e105]: ◆
+          - generic [ref=f10e106]:
+            - text: "🎤 New: QA Career Guidance Talk by Rahul Shetty — 3 hours of career strategy, AI era frameworks, and a 2026 roadmap."
+            - link "Watch Now" [ref=f10e107] [cursor=pointer]:
+              - /url: /qa-career-guidance-talk
+        - generic [ref=f10e108]:
+          - generic [ref=f10e109]: ◆
+          - generic [ref=f10e110]: "🚀 Just Released: New K6 Performance Testing Masterclass is now live- Checkout in Course library"
+        - generic [ref=f10e111]:
+          - generic [ref=f10e112]: ◆
+          - generic [ref=f10e113]:
+            - text: "💼 Get Shortlisted by Recruiters: Take QA skill assessments on"
+            - link "TechSmartHire" [ref=f10e114] [cursor=pointer]:
+              - /url: https://techsmarthire.com
+            - text: and unlock real job opportunities
+        - generic [ref=f10e115]:
+          - generic [ref=f10e116]: ◆
+          - generic [ref=f10e117]:
+            - text: "🧪 New Automation Playground: Practice Web & API Automation on our"
+            - link "Full Stack Event Hub demo application" [ref=f10e118] [cursor=pointer]:
+              - /url: https://eventhub.rahulshettyacademy.com/
+        - generic [ref=f10e119]:
+          - generic [ref=f10e120]: ◆
+          - generic [ref=f10e121]: "🤖 Agentic AI is here: Claude Code-powered QA workflows now covered in the Gen AI & AI Agents Testing course — watch the new additions."
+        - generic [ref=f10e122]:
+          - generic [ref=f10e123]: ◆
+          - generic [ref=f10e124]: 🔥 ISTQB AI Testing course crosses 1,500 students in just 14 days — Surge in demand for Certs
+        - generic [ref=f10e125]:
+          - generic [ref=f10e126]: ◆
+          - generic [ref=f10e127]:
+            - text: "🎓 Limited-Time Access: Unlock 40+ QA & AI courses with"
+            - link "All-Access Membership" [ref=f10e128] [cursor=pointer]:
+              - /url: /all-access-subscription
+            - text: for just $129*
+        - generic [ref=f10e129]:
+          - generic [ref=f10e130]: ◆
+          - generic [ref=f10e131]: "📈 Playwright Surge is Real: Learning consumption has increased by 250%+ in the last quarter"
+        - generic [ref=f10e132]:
+          - generic [ref=f10e133]: ─ ─ ─ ─ ─
+          - generic [ref=f10e134]:
+            - text: 📬 That's all for now —
+            - link "Subscribe to our Newsletter" [ref=f10e135] [cursor=pointer]:
+              - /url: https://courses.rahulshettyacademy.com/sign_up
+            - text: and get updates like these once a month.
+    - generic [ref=f10e137]:
+      - generic [ref=f10e138]:
+        - generic [ref=f10e139]:
+          - generic [ref=f10e140]: For Managers & Team Leads
+          - heading "Upskill Your QA Team for the Technologies Your Project Actually Needs" [level=1] [ref=f10e145]
+          - paragraph [ref=f10e146]: Your team doesn't need another generic training program. They need the right skills, the right learning path, hands-on practice, expert guidance, and accountability — without disrupting day-to-day project commitments.
+          - paragraph [ref=f10e147]: Tell us your project requirements. We understand your team's current skill level. We map the right courses, projects, mentoring, and checkpoints into a program built for your team.
+          - generic [ref=f10e148]:
+            - button "Talk to Rahul About Your Team" [ref=f10e149] [cursor=pointer]
+            - button "See How It Works" [ref=f10e150] [cursor=pointer]
+        - generic [ref=f10e153]:
+          - paragraph [ref=f10e154]: "Example: Team Transition"
+          - paragraph [ref=f10e155]: Your team knows today
+          - generic [ref=f10e156]:
+            - generic [ref=f10e157]: Selenium
+            - generic [ref=f10e158]: Java
+          - paragraph [ref=f10e163]: Your project needs
+          - generic [ref=f10e164]:
+            - generic [ref=f10e165]: Playwright
+            - generic [ref=f10e166]: TypeScript
+            - generic [ref=f10e167]: API Testing
+            - generic [ref=f10e168]: CI/CD
+          - paragraph [ref=f10e170]: We map your project's actual stack into a mentor-supported roadmap — not a generic course bundle.
+      - generic [ref=f10e171]:
+        - generic [ref=f10e172]:
+          - generic [ref=f10e173]: 15+ yrs
+          - generic [ref=f10e174]: Rahul's Industry Experience
+        - generic [ref=f10e175]:
+          - generic [ref=f10e176]: 75+
+          - generic [ref=f10e177]: QA Teams Trained
+        - generic [ref=f10e178]:
+          - generic [ref=f10e179]: 20+
+          - generic [ref=f10e180]: Technologies We Can Map
+        - generic [ref=f10e181]:
+          - generic [ref=f10e182]: 100%
+          - generic [ref=f10e183]: Project-Specific Curriculum
+    - generic [ref=f10e185]:
+      - generic [ref=f10e186]:
+        - generic [ref=f10e187]: Getting Started
+        - heading "How Your Team Accelerator Starts" [level=2] [ref=f10e188]
+        - paragraph [ref=f10e189]: We keep the onboarding process simple and transparent — no course is decided before we understand your project.
+      - generic [ref=f10e190]:
+        - generic [ref=f10e198]:
+          - generic [ref=f10e199]: Step 1
+          - heading "Consultation With Rahul Shetty" [level=4] [ref=f10e201]
+          - paragraph [ref=f10e202]: Your manager, team lead, or training representative walks Rahul through your QA team structure, existing skill levels, current and planned technologies, timelines, team size, and expected learning outcomes. The goal isn't to recommend courses immediately — it's to understand what success should look like for your team.
+        - generic [ref=f10e214]:
+          - generic [ref=f10e215]: Step 2
+          - heading "Share Your Required Course Outline" [level=4] [ref=f10e217]
+          - paragraph [ref=f10e218]: Once there's a good fit, your manager or technical lead shares the training outline or skills needed — from a complete curriculum to something as simple as "move our team from Selenium Java to Playwright TypeScript with API testing and CI/CD integration." Our job is to convert that into a practical learning programme.
+        - generic [ref=f10e229]:
+          - generic [ref=f10e230]: Step 3
+          - heading "We Map Your Requirements Into a Learning Program" [level=4] [ref=f10e232]
+          - paragraph [ref=f10e233]: We prepare a proposed roadmap — required modules, sequence, what can be skipped, what needs deeper coverage, exercises, mini-projects, mentor and Rahul review checkpoints, assessments, and expected duration. Your manager gets complete visibility before the programme begins, and we can walk you through the learning platform and mentoring model.
+        - generic [ref=f10e247]:
+          - generic [ref=f10e248]: Step 4
+          - heading "Program Approval & Kickoff" [level=4] [ref=f10e250]
+          - paragraph [ref=f10e251]: Once the learning plan, commercials, team size, and timelines are agreed, the engagement begins. Your team gets access to the assigned curriculum and is introduced to the mentor who will support them throughout — we don't just hand over course access, we actively guide the journey.
+    - generic [ref=f10e253]:
+      - generic [ref=f10e254]:
+        - heading "A Learning Path Built Only Around What Your Project Needs" [level=2] [ref=f10e255]
+        - paragraph [ref=f10e256]: Your employees don't consume hundreds of hours of unrelated content. We map the required technologies into a focused, sequenced curriculum — and just as deliberately, leave out what your team already knows or doesn't need.
+      - generic [ref=f10e258]:
+        - paragraph [ref=f10e259]: Example project requirement
+        - generic [ref=f10e260]:
+          - generic [ref=f10e261]: Playwright
+          - generic [ref=f10e262]: TypeScript
+          - generic [ref=f10e263]: API Testing
+          - generic [ref=f10e264]: Git
+          - generic [ref=f10e265]: CI/CD
+        - generic [ref=f10e266]:
+          - generic [ref=f10e267]:
+            - heading "Mapped Into the Roadmap" [level=3] [ref=f10e272]
+            - generic [ref=f10e273]:
+              - generic [ref=f10e274]: What to learn first, and in what sequence
+              - generic [ref=f10e279]: Which concepts are mandatory vs optional
+              - generic [ref=f10e284]: Exercises and mini-projects to complete
+              - generic [ref=f10e289]: When mentor reviews happen
+              - generic [ref=f10e294]: When knowledge assessments happen
+          - generic [ref=f10e299]:
+            - heading "Left Out If It's Not Needed" [level=3] [ref=f10e305]
+            - generic [ref=f10e306]:
+              - generic [ref=f10e307]: Already know JavaScript? We don't re-teach it.
+              - generic [ref=f10e313]: Project doesn't use Docker? It's not in the roadmap.
+              - generic [ref=f10e319]: Need deep API automation? We spend more time there.
+              - generic [ref=f10e325]: Only need select Playwright concepts? That's exactly what's prioritized.
+        - paragraph [ref=f10e331]: The curriculum is driven by your project requirements — not by how many hours of course content we can provide.
+    - generic [ref=f10e333]:
+      - generic [ref=f10e334]:
+        - heading "Guidance That Never Leaves Your Team Alone" [level=2] [ref=f10e335]
+        - paragraph [ref=f10e336]: Project teams rarely learn on the same schedule — sprints, releases, and time zones differ from person to person. That's why learning here is self-paced by default, but never unsupported.
+      - generic [ref=f10e337]:
+        - generic [ref=f10e346]:
+          - heading "Dedicated Mentor Support" [level=3] [ref=f10e347]
+          - paragraph [ref=f10e348]: A dedicated mentor is assigned to your team — the technical connection between the curriculum and your employees, for clarifying concepts, reviewing exercises, resolving coding issues, and discussing framework design and best practices.
+        - generic [ref=f10e354]:
+          - heading "Weekly Live Mentor Sessions" [level=3] [ref=f10e355]
+          - paragraph [ref=f10e356]: Scheduled sessions designed to review progress and solve real learning challenges — not repeat recorded content. Employees bring questions from modules, assignments, exercises, and mini-projects.
+        - generic [ref=f10e362]:
+          - heading "Continuous Question Support" [level=3] [ref=f10e363]
+          - paragraph [ref=f10e364]: Questions don't only appear during a scheduled call. Ongoing support channels mean employees keep learning at their own pace and reach out the moment they're blocked, instead of waiting for the next session.
+        - generic [ref=f10e371]:
+          - heading "Direct Rahul Shetty Checkpoints" [level=3] [ref=f10e372]
+          - paragraph [ref=f10e373]: At important milestones, Rahul Shetty connects directly with the team to review confidence, completion, and whether the curriculum needs adjustment — keeping the programme aligned with what your manager agreed to.
+    - generic [ref=f10e376]:
+      - heading "Learning Through Hands-On Projects" [level=2] [ref=f10e377]
+      - paragraph [ref=f10e378]: Watching videos alone doesn't build project confidence. Employees implement what they learn — exact assignments depend on the technologies selected for your team.
+    - generic [ref=f10e381]:
+      - generic [ref=f10e383]:
+        - heading "Assessments to Validate Learning" [level=3] [ref=f10e389]
+        - paragraph [ref=f10e390]: "At the end of important learning stages, employees complete assessments that evaluate:"
+        - list [ref=f10e391]:
+          - listitem [ref=f10e392]: Conceptual knowledge
+          - listitem [ref=f10e396]: Coding skills
+          - listitem [ref=f10e400]: Framework understanding
+          - listitem [ref=f10e404]: Debugging ability
+          - listitem [ref=f10e408]: Practical implementation
+          - listitem [ref=f10e412]: Best practices
+      - generic [ref=f10e417]:
+        - heading "Completion Certification" [level=3] [ref=f10e422]
+        - paragraph [ref=f10e423]: Employees who complete the assigned learning path, projects, and required assessments receive a Rahul Shetty Academy completion certification for the team upskilling programme.
+        - paragraph [ref=f10e424]: It represents more than video completion — it reflects a guided curriculum, practical exercises, mentor interaction, project work, and knowledge validation.
+    - generic [ref=f10e426]:
+      - generic [ref=f10e427]:
+        - heading "Technologies We Can Build Your Learning Path Around" [level=2] [ref=f10e428]
+        - paragraph [ref=f10e429]: Where multiple technologies are required, we combine them into one structured roadmap.
+      - generic [ref=f10e430]:
+        - generic [ref=f10e432]:
+          - heading "Automation Frameworks" [level=3] [ref=f10e437]
+          - generic [ref=f10e438]:
+            - generic [ref=f10e439]: Playwright
+            - generic [ref=f10e440]: Selenium
+            - generic [ref=f10e441]: Cypress
+            - generic [ref=f10e442]: Appium
+            - generic [ref=f10e443]: Mobile Automation
+        - generic [ref=f10e445]:
+          - heading "Languages" [level=3] [ref=f10e450]
+          - generic [ref=f10e451]:
+            - generic [ref=f10e452]: Java
+            - generic [ref=f10e453]: JavaScript / TypeScript
+            - generic [ref=f10e454]: Python
+        - generic [ref=f10e456]:
+          - heading "API Testing" [level=3] [ref=f10e463]
+          - generic [ref=f10e464]:
+            - generic [ref=f10e465]: API Testing
+            - generic [ref=f10e466]: REST Assured
+            - generic [ref=f10e467]: Postman
+        - generic [ref=f10e469]:
+          - heading "Git & CI/CD" [level=3] [ref=f10e475]
+          - generic [ref=f10e476]:
+            - generic [ref=f10e477]: Git & GitHub
+            - generic [ref=f10e478]: CI/CD
+            - generic [ref=f10e479]: Jenkins
+            - generic [ref=f10e480]: Azure DevOps
+            - generic [ref=f10e481]: Docker
+        - generic [ref=f10e483]:
+          - heading "Performance" [level=3] [ref=f10e488]
+          - generic [ref=f10e489]:
+            - generic [ref=f10e490]: Performance Testing
+            - generic [ref=f10e491]: JMeter
+        - generic [ref=f10e493]:
+          - heading "AI for QA" [level=3] [ref=f10e497]
+          - generic [ref=f10e498]:
+            - generic [ref=f10e499]: AI for QA Engineers
+            - generic [ref=f10e500]: Generative AI Testing
+            - generic [ref=f10e501]: AI Agents
+            - generic [ref=f10e502]: MCP
+            - generic [ref=f10e503]: Agentic AI
+            - generic [ref=f10e504]: AI Application Testing
+        - generic [ref=f10e506]:
+          - heading "Framework Design" [level=3] [ref=f10e512]
+          - generic [ref=f10e513]: Test Automation Framework Design
+    - generic [ref=f10e516]:
+      - generic [ref=f10e517]:
+        - heading "Built for Different Team Sizes" [level=2] [ref=f10e518]
+        - paragraph [ref=f10e519]: Whether your goal is a small project team or a broader technical enablement program, the structure adapts to your requirements.
+      - generic [ref=f10e520]:
+        - paragraph [ref=f10e528]: Small QA teams
+        - paragraph [ref=f10e541]: Project-specific automation teams
+        - paragraph [ref=f10e547]: QA Centers of Excellence
+        - paragraph [ref=f10e553]: Engineering teams transitioning to new technologies
+        - paragraph [ref=f10e559]: Organizations modernizing their automation stack
+        - paragraph [ref=f10e567]: Teams preparing for new customer projects
+        - paragraph [ref=f10e572]: Companies building AI-testing capabilities
+    - generic [ref=f10e574]:
+      - generic [ref=f10e575]:
+        - generic [ref=f10e576]: Investment
+        - heading "Affordable Pricing, Whatever Your Team Size" [level=2] [ref=f10e577]
+        - paragraph [ref=f10e578]: Program pricing is based on your team size, the technologies you need mapped, and total mentor hours required — confirmed together during your consultation, before anything begins.
+      - generic [ref=f10e580]:
+        - generic [ref=f10e583]: Typical Program Investment
+        - generic [ref=f10e584]: $2,500 – $6,000
+        - paragraph [ref=f10e585]: Whatever your team size or requirement list, the investment is scoped to stay within this range — never beyond it.
+        - generic [ref=f10e586]:
+          - generic [ref=f10e587]: Scales with your team size and requirement, not a fixed package
+          - generic [ref=f10e594]: Capped at $6,000 — no matter how large the team
+          - generic [ref=f10e599]: Agreed with you upfront — no hidden fees
+    - generic [ref=f10e604]:
+      - generic [ref=f10e605]:
+        - heading "What Managers Get" [level=2] [ref=f10e606]
+        - paragraph [ref=f10e607]: This programme isn't designed only around the employee experience. Managers need visibility too.
+      - generic [ref=f10e609]:
+        - generic [ref=f10e610]:
+          - generic [ref=f10e611]: What your team is learning
+          - generic [ref=f10e616]: Where they are in the curriculum
+          - generic [ref=f10e621]: Whether important milestones are being completed
+          - generic [ref=f10e626]: Where employees are facing difficulties
+          - generic [ref=f10e631]: Whether additional guidance is required
+          - generic [ref=f10e636]: Whether the learning programme still matches project expectations
+        - paragraph [ref=f10e641]: At key milestones, Rahul Shetty Academy can review progress with your leadership team and discuss the next steps.
+    - generic [ref=f10e643]:
+      - generic [ref=f10e644]:
+        - generic [ref=f10e645]: End to End
+        - heading "The Complete Team Upskilling Journey" [level=2] [ref=f10e646]
+      - generic [ref=f10e647]:
+        - generic [ref=f10e649]:
+          - generic [ref=f10e655]:
+            - generic [ref=f10e656]: "1"
+            - heading "Understand" [level=4] [ref=f10e657]
+          - paragraph [ref=f10e658]: We discuss your project requirements and team objectives.
+        - generic [ref=f10e660]:
+          - generic [ref=f10e665]:
+            - generic [ref=f10e666]: "2"
+            - heading "Map" [level=4] [ref=f10e667]
+          - paragraph [ref=f10e668]: We convert those requirements into a customized curriculum.
+        - generic [ref=f10e670]:
+          - generic [ref=f10e675]:
+            - generic [ref=f10e676]: "3"
+            - heading "Learn" [level=4] [ref=f10e677]
+          - paragraph [ref=f10e678]: Employees complete assigned self-paced learning modules.
+        - generic [ref=f10e680]:
+          - generic [ref=f10e685]:
+            - generic [ref=f10e686]: "4"
+            - heading "Practice" [level=4] [ref=f10e687]
+          - paragraph [ref=f10e688]: They solve exercises and project-based assignments.
+        - generic [ref=f10e690]:
+          - generic [ref=f10e695]:
+            - generic [ref=f10e696]: "5"
+            - heading "Connect" [level=4] [ref=f10e697]
+          - paragraph [ref=f10e698]: Mentors answer questions and conduct regular sessions.
+        - generic [ref=f10e700]:
+          - generic [ref=f10e706]:
+            - generic [ref=f10e707]: "6"
+            - heading "Review" [level=4] [ref=f10e708]
+          - paragraph [ref=f10e709]: Rahul Shetty joins milestone checkpoints to review progress.
+        - generic [ref=f10e711]:
+          - generic [ref=f10e718]:
+            - generic [ref=f10e719]: "7"
+            - heading "Validate" [level=4] [ref=f10e720]
+          - paragraph [ref=f10e721]: Employees complete assessments to demonstrate understanding.
+        - generic [ref=f10e723]:
+          - generic [ref=f10e729]:
+            - generic [ref=f10e730]: "8"
+            - heading "Certify" [level=4] [ref=f10e731]
+          - paragraph [ref=f10e732]: Successful participants receive completion certification.
+        - generic [ref=f10e734]:
+          - generic [ref=f10e742]:
+            - generic [ref=f10e743]: "9"
+            - heading "Apply" [level=4] [ref=f10e744]
+          - paragraph [ref=f10e745]: Your team takes the skills into the actual project with confidence.
+    - generic [ref=f10e747]:
+      - heading "From Training Access to Team Transformation" [level=2] [ref=f10e751]
+      - paragraph [ref=f10e752]: Buying course licenses is easy. But giving employees access to content doesn't automatically create an upskilled team.
+      - paragraph [ref=f10e753]: People need direction. The right learning sequence. Someone to answer questions. Practical work. Accountability. And managers need confidence that learning is actually happening.
+      - paragraph [ref=f10e754]: Real, end-to-end command of an automation ecosystem isn't a two-week outcome. A trainer who runs a one-time, in-person onboarding and then leaves can only ever scratch the surface — genuinely acquiring that depth is a 45–60 day journey, not a two-week sprint. That's exactly where self-paced learning with structured assignments, milestones, and dedicated mentor support wins over a short corporate bootcamp — it gets your team there strategically and organically, and it works.
+      - paragraph [ref=f10e755]: That's what the QA Career Accelerator for Teams is designed to provide — the scalability of self-paced learning with the guidance and accountability of a structured corporate training engagement.
+    - generic [ref=f10e757]:
+      - generic [ref=f10e758]:
+        - heading "Questions Before You Reach Out?" [level=2] [ref=f10e759]
+        - paragraph [ref=f10e760]: Everything a manager or team lead typically asks about the Team Career Accelerator.
+      - generic [ref=f10e763]:
+        - heading [level=3] [ref=f10e765]:
+          - button "Is there a fixed course package we choose from?" [ref=f10e766] [cursor=pointer]
+        - heading [level=3] [ref=f10e771]:
+          - button "How is pricing determined for a team engagement?" [ref=f10e772] [cursor=pointer]
+        - heading [level=3] [ref=f10e777]:
+          - button "Our team members are at very different skill levels — does that matter?" [ref=f10e778] [cursor=pointer]
+        - heading [level=3] [ref=f10e783]:
+          - button "Do employees have to learn everything, even skills unrelated to our project?" [ref=f10e784] [cursor=pointer]
+        - heading [level=3] [ref=f10e789]:
+          - button "How does a manager track progress during the programme?" [ref=f10e790] [cursor=pointer]
+        - heading [level=3] [ref=f10e795]:
+          - button "Is there a minimum team size for this programme?" [ref=f10e796] [cursor=pointer]
+        - heading [level=3] [ref=f10e801]:
+          - button "Do employees receive individual certification?" [ref=f10e802] [cursor=pointer]
+    - generic [ref=f10e807]:
+      - generic [ref=f10e808]:
+        - generic [ref=f10e809]: Tell Us What Your Project Needs
+        - heading "Talk to Rahul Shetty About Upskilling Your Team" [level=2] [ref=f10e810]
+        - paragraph [ref=f10e811]: You don't need to decide which courses your team should take. Start with your requirement — we'll help you design the learning journey around it.
+      - generic [ref=f10e812]:
+        - generic [ref=f10e813]: No cost for the consultation
+        - generic [ref=f10e818]: See the full roadmap before deciding
+        - generic [ref=f10e823]: Rahul reviews your requirements personally
+        - generic [ref=f10e828]: Capped at $6,000, whatever your team size
+      - generic [ref=f10e833]:
+        - paragraph [ref=f10e837]: "Here's exactly what happens after you submit:"
+        - generic [ref=f10e838]:
+          - generic [ref=f10e839]:
+            - generic [ref=f10e840]: "1"
+            - paragraph [ref=f10e845]: You Submit
+            - paragraph [ref=f10e846]: Share your project & team requirement
+          - generic [ref=f10e847]:
+            - generic [ref=f10e848]: "2"
+            - paragraph [ref=f10e853]: Team Reviews
+            - paragraph [ref=f10e854]: We review and reach out in 2–3 days
+          - generic [ref=f10e855]:
+            - generic [ref=f10e856]: "3"
+            - paragraph [ref=f10e860]: Consultation
+            - paragraph [ref=f10e861]: A discovery call with Rahul Shetty
+      - generic [ref=f10e864]:
+        - generic [aria-hidden] [ref=f10e865]:
+          - text: Leave this field blank
+          - textbox [ref=f10e866]
+        - generic [ref=f10e867]:
+          - heading "1 Contact & Organization" [level=3] [ref=f10e868]:
+            - generic [ref=f10e869]: "1"
+            - text: Contact & Organization
+          - generic [ref=f10e870]:
+            - generic [ref=f10e871]:
+              - generic [ref=f10e872]: Your Name *
+              - textbox "Your Name *" [ref=f10e873]:
+                - /placeholder: Jane Doe
+            - generic [ref=f10e874]:
+              - generic [ref=f10e875]: Work Email *
+              - textbox "Work Email *" [ref=f10e876]:
+                - /placeholder: jane@company.com
+            - generic [ref=f10e877]:
+              - generic [ref=f10e878]: Company / Organization Name *
+              - textbox "Company / Organization Name *" [ref=f10e879]:
+                - /placeholder: Acme Corp
+            - generic [ref=f10e880]:
+              - generic [ref=f10e881]: Phone Number *
+              - textbox "Phone Number *" [ref=f10e882]:
+                - /placeholder: +1 555 000 0000
+            - generic [ref=f10e883]:
+              - generic [ref=f10e884]: Your Role (optional)
+              - textbox "Your Role (optional)" [ref=f10e885]:
+                - /placeholder: e.g. QA Manager, Team Lead, Director of Engineering
+        - generic [ref=f10e886]:
+          - heading "2 Team & Requirement" [level=3] [ref=f10e887]:
+            - generic [ref=f10e888]: "2"
+            - text: Team & Requirement
+          - generic [ref=f10e889]:
+            - generic [ref=f10e890]:
+              - generic [ref=f10e891]: Team Size *
+              - combobox [ref=f10e892] [cursor=pointer]:
+                - generic: Select number of employees
+              - combobox [aria-hidden] [ref=f10e895]
+            - generic [ref=f10e896]:
+              - generic [ref=f10e897]: Current Technology Stack *
+              - textbox "Current Technology Stack *" [ref=f10e898]:
+                - /placeholder: e.g. Selenium, Java, manual testing
+            - generic [ref=f10e899]:
+              - generic [ref=f10e900]: What Should the Team Learn? *
+              - textbox "What Should the Team Learn? *" [ref=f10e901]:
+                - /placeholder: e.g. Move from Selenium Java to Playwright TypeScript with API testing and CI/CD integration
+            - generic [ref=f10e902]:
+              - generic [ref=f10e903]: Expected Timeline *
+              - combobox [ref=f10e904] [cursor=pointer]:
+                - generic: Select timeline
+              - combobox [aria-hidden] [ref=f10e907]
+            - generic [ref=f10e908]:
+              - generic [ref=f10e909]: Anything Else We Should Know? (optional)
+              - textbox "Anything Else We Should Know? (optional)" [ref=f10e910]:
+                - /placeholder: Framework, CI/CD tooling, AI testing needs, existing skill gaps, etc.
+            - generic [ref=f10e911]:
+              - generic [ref=f10e912]: How did you hear about this program? *
+              - combobox [ref=f10e913] [cursor=pointer]:
+                - generic: Select an option
+              - combobox [aria-hidden] [ref=f10e916]
+        - generic [ref=f10e917]:
+          - generic [ref=f10e918]:
+            - checkbox "I understand this starts with a consultation call — pricing, timeline, and the learning plan are agreed together before the program begins." [ref=f10e919] [cursor=pointer]
+            - checkbox [aria-hidden]
+            - generic [ref=f10e920] [cursor=pointer]: I understand this starts with a consultation call — pricing, timeline, and the learning plan are agreed together before the program begins.
+          - generic [ref=f10e921]:
+            - checkbox "I understand the program is priced between $2,500 and $6,000, based on team size and requirements, and I'm open to proceeding within that range." [ref=f10e922] [cursor=pointer]
+            - checkbox [aria-hidden]
+            - generic [ref=f10e923] [cursor=pointer]: I understand the program is priced between $2,500 and $6,000, based on team size and requirements, and I'm open to proceeding within that range.
+        - generic [ref=f10e924]:
+          - generic [ref=f10e925]: Human Verification *
+          - generic [ref=f10e926]:
+            - generic [ref=f10e927]:
+              - text: What is
+              - generic [ref=f10e928]: 1 + 3
+              - text: "?"
+            - spinbutton "Your answer" [ref=f10e929]
+        - button "Request a Team Consultation" [ref=f10e930] [cursor=pointer]
+    - contentinfo [ref=f10e931]:
+      - generic [ref=f10e932]:
+        - generic [ref=f10e933]:
+          - generic [ref=f10e934]:
+            - generic [ref=f10e935]:
+              - heading "RAHUL SHETTY" [level=3] [ref=f10e936]
+              - paragraph [ref=f10e937]: Transforming careers through comprehensive QA testing education. Join 1M+ learners worldwide.
+            - link "Contact Us" [ref=f10e938] [cursor=pointer]:
+              - /url: /contact-us
+            - generic [ref=f10e942]:
+              - heading "Connect us on Socials" [level=4] [ref=f10e943]
+              - generic [ref=f10e944]:
+                - link [ref=f10e945] [cursor=pointer]:
+                  - /url: https://www.youtube.com/channel/UCgx5SDcUQWCQ_1CNneQzCRw
+                - link [ref=f10e949] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/rahul-shetty-venkatesh/
+                - link [ref=f10e954] [cursor=pointer]:
+                  - /url: https://www.instagram.com/rahulshettyofficial_venkat/
+          - generic [ref=f10e958]:
+            - heading "Navigation" [level=4] [ref=f10e959]
+            - generic [ref=f10e960]:
+              - link "All-Access" [ref=f10e961] [cursor=pointer]:
+                - /url: /all-access-subscription
+              - link "Learning Paths" [ref=f10e962] [cursor=pointer]:
+                - /url: /learning-paths
+              - link "Mentorship" [ref=f10e963] [cursor=pointer]:
+                - /url: /mentorship
+              - link "Career Accelerator" [ref=f10e964] [cursor=pointer]:
+                - /url: /qa-career-accelerator-job-ready
+              - link "Team Accelerator" [ref=f10e965] [cursor=pointer]:
+                - /url: /qa-career-accelerator-for-teams
+              - link "AI Learning PathNEW" [ref=f10e966] [cursor=pointer]:
+                - /url: /ai-learning-path
+              - link "Practice" [ref=f10e967] [cursor=pointer]:
+                - /url: /practice
+              - link "Meet ups" [ref=f10e968] [cursor=pointer]:
+                - /url: https://qasummit.org
+              - link "Blog" [ref=f10e969] [cursor=pointer]:
+                - /url: https://rahulshettyacademy.com/blog/
+              - link "Contact Us" [ref=f10e970] [cursor=pointer]:
+                - /url: /contact-us
+          - generic [ref=f10e971]:
+            - heading "Popular Courses" [level=4] [ref=f10e972]
+            - generic [ref=f10e973]:
+              - link "Selenium WebDriver" [ref=f10e974] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/selenium-webdriver-interview-questions-tutorial-1
+              - link "Playwright Testing" [ref=f10e975] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/playwright-js-ts-automation-testing-from-scratch-framework
+              - link "API Testing" [ref=f10e976] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/rest-api-automation-rest-assured-java
+              - link "AI Agents" [ref=f10e977] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/learn-agentic-ai-build-multi-agent-automation-workflow
+              - link "AI Testing Tools" [ref=f10e978] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/learn-generativen-ai-in-software-testing
+              - link "Browse All Courses" [ref=f10e979] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/courses
+          - generic [ref=f10e980]:
+            - heading "Support" [level=4] [ref=f10e981]
+            - generic [ref=f10e982]:
+              - link "Student Login" [ref=f10e983] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/sign_in
+              - link "Contact Us" [ref=f10e984] [cursor=pointer]:
+                - /url: /contact-us
+              - link "Help Center" [ref=f10e985] [cursor=pointer]:
+                - /url: "#"
+              - link "Community" [ref=f10e986] [cursor=pointer]:
+                - /url: "#"
+              - link "Terms of Service" [ref=f10e987] [cursor=pointer]:
+                - /url: /terms-of-service
+              - link "Privacy Policy" [ref=f10e988] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=f10e990]:
+          - generic [ref=f10e991]:
+            - paragraph [ref=f10e992]: © 2026 Rahul Shetty Academy. All rights reserved.
+            - generic [ref=f10e993]: •
+            - generic [ref=f10e994]: Built with ♥ for testers worldwide.
+          - generic [ref=f10e996]:
+            - generic [ref=f10e997]: contact@rahulshettyacademy.com
+            - generic [ref=f10e998]: Trusted by 1M+ QA Engineers

@@ -1,0 +1,581 @@
+- generic [ref=f1e2]:
+  - region "Notifications (F8)":
+    - list
+  - region "Notifications alt+T"
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - generic: Limited Time — Free
+          - button "Dismiss popup"
+        - generic:
+          - heading "Join Our Academy & Unlock 2 Premium Courses — FREE" [level=3]: Join Our Academy & Unlock2 Premium Courses — FREE
+          - paragraph: Sign up once. No credit card. Instant access.
+        - list:
+          - listitem:
+            - generic: Java Design Patterns for Test Framework
+          - listitem:
+            - generic: SDET/QA Automation Interview Kit + Java Logic Programs
+        - link "Sign Up Free →":
+          - /url: https://courses.rahulshettyacademy.com/sign_up
+        - paragraph: Usually $197 · Now completely FREE
+  - generic [ref=f1e3]:
+    - navigation [ref=f1e4]:
+      - generic [ref=f1e6]:
+        - generic:
+          - link "Rahul Shetty Academy":
+            - /url: /
+            - img "Rahul Shetty Academy"
+        - generic [ref=f1e7]:
+          - link "Home" [ref=f1e8] [cursor=pointer]:
+            - /url: /
+          - link "All-Access" [ref=f1e12] [cursor=pointer]:
+            - /url: /all-access-subscription
+          - link "Learning Paths" [ref=f1e15] [cursor=pointer]:
+            - /url: /learning-paths
+          - link "Courses" [ref=f1e20] [cursor=pointer]:
+            - /url: /course-library
+          - link "Mentorship" [ref=f1e23] [cursor=pointer]:
+            - /url: /mentorship
+          - button "Career Accelerator (Job/Skill-Oriented) NEW" [ref=f1e29] [cursor=pointer]:
+            - generic [ref=f1e33]:
+              - generic [ref=f1e34]: Career Accelerator
+              - generic [ref=f1e37]: (Job/Skill-Oriented)
+            - generic [ref=f1e38]: NEW
+          - link "Practice Apps" [ref=f1e39] [cursor=pointer]:
+            - /url: /practice
+        - generic [ref=f1e44]:
+          - link "Contact Us" [ref=f1e45] [cursor=pointer]:
+            - /url: /contact-us
+          - button "Resources" [ref=f1e49] [cursor=pointer]
+          - link "Sign Up" [ref=f1e57] [cursor=pointer]:
+            - /url: https://courses.rahulshettyacademy.com/sign_up
+    - generic [ref=f1e58]:
+      - generic [ref=f1e59]: Latest
+      - generic [ref=f1e68]:
+        - generic [ref=f1e69]:
+          - generic [ref=f1e70]: ◆
+          - generic [ref=f1e71]:
+            - text: "🎤 New: QA Career Guidance Talk by Rahul Shetty — 3 hours of career strategy, AI era frameworks, and a 2026 roadmap."
+            - link "Watch Now" [ref=f1e72] [cursor=pointer]:
+              - /url: /qa-career-guidance-talk
+        - generic [ref=f1e73]:
+          - generic [ref=f1e74]: ◆
+          - generic [ref=f1e75]: "🚀 Just Released: New K6 Performance Testing Masterclass is now live- Checkout in Course library"
+        - generic [ref=f1e76]:
+          - generic [ref=f1e77]: ◆
+          - generic [ref=f1e78]:
+            - text: "💼 Get Shortlisted by Recruiters: Take QA skill assessments on"
+            - link "TechSmartHire" [ref=f1e79] [cursor=pointer]:
+              - /url: https://techsmarthire.com
+            - text: and unlock real job opportunities
+        - generic [ref=f1e80]:
+          - generic [ref=f1e81]: ◆
+          - generic [ref=f1e82]:
+            - text: "🧪 New Automation Playground: Practice Web & API Automation on our"
+            - link "Full Stack Event Hub demo application" [ref=f1e83] [cursor=pointer]:
+              - /url: https://eventhub.rahulshettyacademy.com/
+        - generic [ref=f1e84]:
+          - generic [ref=f1e85]: ◆
+          - generic [ref=f1e86]: "🤖 Agentic AI is here: Claude Code-powered QA workflows now covered in the Gen AI & AI Agents Testing course — watch the new additions."
+        - generic [ref=f1e87]:
+          - generic [ref=f1e88]: ◆
+          - generic [ref=f1e89]: 🔥 ISTQB AI Testing course crosses 1,500 students in just 14 days — Surge in demand for Certs
+        - generic [ref=f1e90]:
+          - generic [ref=f1e91]: ◆
+          - generic [ref=f1e92]:
+            - text: "🎓 Limited-Time Access: Unlock 40+ QA & AI courses with"
+            - link "All-Access Membership" [ref=f1e93] [cursor=pointer]:
+              - /url: /all-access-subscription
+            - text: for just $129*
+        - generic [ref=f1e94]:
+          - generic [ref=f1e95]: ◆
+          - generic [ref=f1e96]: "📈 Playwright Surge is Real: Learning consumption has increased by 250%+ in the last quarter"
+        - generic [ref=f1e97]:
+          - generic [ref=f1e98]: ─ ─ ─ ─ ─
+          - generic [ref=f1e99]:
+            - text: 📬 That's all for now —
+            - link "Subscribe to our Newsletter" [ref=f1e100] [cursor=pointer]:
+              - /url: https://courses.rahulshettyacademy.com/sign_up
+            - text: and get updates like these once a month.
+        - generic [ref=f1e101]:
+          - generic [ref=f1e102]: ◆
+          - generic [ref=f1e103]:
+            - text: "🎤 New: QA Career Guidance Talk by Rahul Shetty — 3 hours of career strategy, AI era frameworks, and a 2026 roadmap."
+            - link "Watch Now" [ref=f1e104] [cursor=pointer]:
+              - /url: /qa-career-guidance-talk
+        - generic [ref=f1e105]:
+          - generic [ref=f1e106]: ◆
+          - generic [ref=f1e107]: "🚀 Just Released: New K6 Performance Testing Masterclass is now live- Checkout in Course library"
+        - generic [ref=f1e108]:
+          - generic [ref=f1e109]: ◆
+          - generic [ref=f1e110]:
+            - text: "💼 Get Shortlisted by Recruiters: Take QA skill assessments on"
+            - link "TechSmartHire" [ref=f1e111] [cursor=pointer]:
+              - /url: https://techsmarthire.com
+            - text: and unlock real job opportunities
+        - generic [ref=f1e112]:
+          - generic [ref=f1e113]: ◆
+          - generic [ref=f1e114]:
+            - text: "🧪 New Automation Playground: Practice Web & API Automation on our"
+            - link "Full Stack Event Hub demo application" [ref=f1e115] [cursor=pointer]:
+              - /url: https://eventhub.rahulshettyacademy.com/
+        - generic [ref=f1e116]:
+          - generic [ref=f1e117]: ◆
+          - generic [ref=f1e118]: "🤖 Agentic AI is here: Claude Code-powered QA workflows now covered in the Gen AI & AI Agents Testing course — watch the new additions."
+        - generic [ref=f1e119]:
+          - generic [ref=f1e120]: ◆
+          - generic [ref=f1e121]: 🔥 ISTQB AI Testing course crosses 1,500 students in just 14 days — Surge in demand for Certs
+        - generic [ref=f1e122]:
+          - generic [ref=f1e123]: ◆
+          - generic [ref=f1e124]:
+            - text: "🎓 Limited-Time Access: Unlock 40+ QA & AI courses with"
+            - link "All-Access Membership" [ref=f1e125] [cursor=pointer]:
+              - /url: /all-access-subscription
+            - text: for just $129*
+        - generic [ref=f1e126]:
+          - generic [ref=f1e127]: ◆
+          - generic [ref=f1e128]: "📈 Playwright Surge is Real: Learning consumption has increased by 250%+ in the last quarter"
+        - generic [ref=f1e129]:
+          - generic [ref=f1e130]: ─ ─ ─ ─ ─
+          - generic [ref=f1e131]:
+            - text: 📬 That's all for now —
+            - link "Subscribe to our Newsletter" [ref=f1e132] [cursor=pointer]:
+              - /url: https://courses.rahulshettyacademy.com/sign_up
+            - text: and get updates like these once a month.
+    - generic [ref=f1e134]:
+      - generic [ref=f1e136]:
+        - generic [ref=f1e137]:
+          - generic [ref=f1e138]: Mentor-Led · 3-Phase Programme
+          - generic [ref=f1e144]:
+            - generic [ref=f1e148]: 7 slots left
+            - generic [ref=f1e149]: this month
+        - heading "From QA Learner to Hired Professional in 90 Days" [level=1] [ref=f1e150]
+        - paragraph [ref=f1e151]:
+          - text: A mentor-led, 3-phase programme designed by
+          - link "Rahul Shetty" [ref=f1e152] [cursor=pointer]:
+            - /url: "#meet-instructor"
+          - text: to take you beyond courses — into real projects, verified skills, and direct recruiter visibility, and make you job ready within 90 days.
+        - generic [ref=f1e153]:
+          - button "Apply for a Slot" [ref=f1e154] [cursor=pointer]
+          - button "See How It Works" [ref=f1e155] [cursor=pointer]
+      - generic [ref=f1e163]:
+        - generic [ref=f1e164]:
+          - generic [ref=f1e165]: 90 days
+          - generic [ref=f1e166]: Active Mentor Support
+        - generic [ref=f1e167]:
+          - generic [ref=f1e168]: 500+
+          - generic [ref=f1e169]: QA Professionals Helped
+        - generic [ref=f1e170]:
+          - generic [ref=f1e171]: 15+ yrs
+          - generic [ref=f1e172]: Rahul's Industry Experience
+        - generic [ref=f1e173]:
+          - generic [ref=f1e174]: Global
+          - generic [ref=f1e175]: Recruiter Network Access
+    - generic [ref=f1e177]:
+      - generic [ref=f1e178]:
+        - heading "Why Most QA Learners Stay Stuck" [level=2] [ref=f1e179]
+        - paragraph [ref=f1e180]: Courses teach you the tools. The Job Ready Package teaches you how to get hired with them.
+      - generic [ref=f1e181]:
+        - generic [ref=f1e183]:
+          - paragraph [ref=f1e187]: "Stuck: Picking the wrong course on your own burns your time, energy, and money — and leaves you no closer to getting hired."
+          - heading "Tailored By Rahul, Not Guesswork" [level=3] [ref=f1e188]
+          - paragraph [ref=f1e189]:
+            - text: No generic playlist, no guesswork.
+            - link "Rahul Shetty" [ref=f1e190] [cursor=pointer]:
+              - /url: "#meet-instructor"
+            - text: personally reviews your background, current skill level, and career goals — then decides exactly what you need to learn next, in the order that actually gets you hired.
+        - generic [ref=f1e192]:
+          - paragraph [ref=f1e197]: "Stuck: Finishing tutorials isn't proof you can do the job."
+          - heading "Real Projects. Real Deadlines." [level=3] [ref=f1e198]
+          - paragraph [ref=f1e199]: From day one of Phase 2, you work on assignments with hard deadlines that mirror actual QA job expectations — the same ownership, pressure, and standards a working automation engineer deals with daily. By the time you're done, your project experience matches someone who's already doing the job, not someone who just studied it.
+        - generic [ref=f1e201]:
+          - paragraph [ref=f1e206]: "Stuck: You won't know you're not interview-ready until a real interview exposes it — and by then, the opportunity's gone."
+          - heading "Interview-Ready. Resume-Ready. Recruiter-Ready." [level=3] [ref=f1e207]
+          - paragraph [ref=f1e208]: A 1-hour mock interview with your mentor pinpoints exactly which areas are weak, so you can go back and close those gaps before they cost you a real opportunity. That one precise fix to your resume is often what turns a rejection into a shortlist — recruiter visibility on TechSmartHire follows once you're genuinely ready.
+    - generic [ref=f1e210]:
+      - generic [ref=f1e211]:
+        - generic [ref=f1e212]: The Journey
+        - heading "Your 3-Phase Roadmap to Getting Hired" [level=2] [ref=f1e213]
+        - paragraph [ref=f1e214]: Each phase builds on the last. By the end, you don't just know QA — you're ready to prove it.
+      - generic [ref=f1e215]:
+        - generic [ref=f1e223]:
+          - generic [ref=f1e224]:
+            - generic [ref=f1e225]: "01"
+            - generic [ref=f1e226]:
+              - heading "Foundation & Strategy" [level=3] [ref=f1e227]
+              - generic [ref=f1e228]: Days 1–7
+          - paragraph [ref=f1e229]: "\"We map your fastest path before you take a single step.\""
+        - generic [ref=f1e230]:
+          - generic [ref=f1e239]:
+            - generic [ref=f1e240]: Step 1
+            - heading "Initial Screening & Consultation" [level=4] [ref=f1e242]
+            - paragraph [ref=f1e243]: We begin with a structured screening to understand your background, goals, and commitment. Only candidates who are genuinely ready to do the work are selected — this ensures every mentor hour is invested in the right person.
+          - generic [ref=f1e254]:
+            - generic [ref=f1e255]: Step 2
+            - heading "Personal 1:1 Strategy Session with Rahul" [level=4] [ref=f1e257]
+            - paragraph [ref=f1e258]:
+              - text: A direct deep-dive with
+              - link "Rahul Shetty" [ref=f1e259] [cursor=pointer]:
+                - /url: "#meet-instructor"
+              - text: to pinpoint your skill gaps, clarify your target role, and design the most efficient route from where you are today to where you want to be.
+          - generic [ref=f1e270]:
+            - generic [ref=f1e271]: Step 3
+            - heading "Your Custom Learning Roadmap" [level=4] [ref=f1e273]
+            - paragraph [ref=f1e274]: Your journey officially begins here - You receive a personalised action plan directly from Rahul Shetty — not a generic curriculum. Every task and milestone is built around your specific experience level, learning pace, and career target.
+        - generic [ref=f1e275]: Next Phase
+      - generic [ref=f1e281]:
+        - generic [ref=f1e288]:
+          - generic [ref=f1e289]: "02"
+          - generic [ref=f1e290]:
+            - heading "Build & Prove" [level=3] [ref=f1e291]
+            - generic [ref=f1e292]: Days 8–60
+        - generic [ref=f1e293]:
+          - generic [ref=f1e301]:
+            - generic [ref=f1e302]: Step 1
+            - heading "Guided Learning — Courses & Tasks Assigned by Rahul" [level=4] [ref=f1e304]
+            - paragraph [ref=f1e305]: You begin by completing the exact courses and tasks Rahul assigns based on your personalised roadmap. Progress is gated — you do not move forward until your learning is confirmed complete. No skipping ahead, no cutting corners. This is where the foundation that separates hireable candidates from everyone else gets built.
+          - generic [ref=f1e316]:
+            - generic [ref=f1e317]: Step 2
+            - heading "Real-World Project Assignments — Now You Prove It" [level=4] [ref=f1e319]
+            - paragraph [ref=f1e320]: With your learning locked in, theory gives way to practice. You get full access to our exclusive Career Accelerator Portal, where mini projects (assignments) with hard deadlines are waiting — not sandbox exercises. Applying everything you've learned under real conditions, you build the discipline, output quality, and professional habits that employers can see and trust. The same portal also unlocks our Interview Library, a curated bank of real automation job interview questions, so you're prepping for interviews while you build.
+          - generic [ref=f1e331]:
+            - generic [ref=f1e332]: Step 3
+            - heading "Bi-Weekly Mentor Check-ins & Code Reviews" [level=4] [ref=f1e334]
+            - paragraph [ref=f1e335]: Live 1:1 sessions with your mentor every two weeks to review your work, catch blockers early, and course-correct before small issues compound — up to 5 one-hour sessions in total across your 90-day program, so you're never left to figure things out alone.
+            - button "See your mentor's full responsibilities →" [ref=f1e336] [cursor=pointer]
+        - generic [ref=f1e337]: Next Phase
+      - generic [ref=f1e343]:
+        - generic [ref=f1e353]:
+          - generic [ref=f1e354]:
+            - generic [ref=f1e355]: "03"
+            - generic [ref=f1e356]:
+              - heading "Get Visible, Get Hired" [level=3] [ref=f1e357]
+              - generic [ref=f1e358]: Days 60–90
+          - paragraph [ref=f1e359]: "\"Your skills are verified. Your profile is live. Recruiters come to you.\""
+        - generic [ref=f1e360]:
+          - generic [ref=f1e369]:
+            - generic [ref=f1e370]: Step 1
+            - heading "Mock Technical Interview with Feedback" [level=4] [ref=f1e372]
+            - paragraph [ref=f1e373]: A full simulated QA interview followed by a detailed written breakdown of your performance. You'll know exactly what to sharpen before stepping into a real interview room.
+          - generic [ref=f1e385]:
+            - generic [ref=f1e386]: Step 2
+            - heading "ATS-Optimised Resume Crafted for You" [level=4] [ref=f1e388]
+            - paragraph [ref=f1e389]: Your resume is rewritten to pass automated screening filters and immediately impress human reviewers. Structured around your real project portfolio, it tells the story of someone who can do the job — not just someone who studied it.
+          - generic [ref=f1e401]:
+            - generic [ref=f1e402]: Step 3
+            - heading "Verified Skills, Boosted to Recruiters" [level=4] [ref=f1e404]
+            - paragraph [ref=f1e405]: You sit structured assessments on Techsmarthire — a platform that hiring managers and recruiters actively trust. Once your scores are independently verified, your profile is actively pushed to hiring managers and companies recruiting for QA roles in your region. You're not waiting in a job board queue — you're being surfaced to the right people at the right time.
+    - generic [ref=f1e412]:
+      - img "Rahul Shetty" [ref=f1e413]
+      - generic [ref=f1e414]:
+        - paragraph [ref=f1e415]: "\"Money isn't the only currency you're spending on your QA career — time and energy matter just as much, and unlike money, you can never earn those back. I've watched too many learners burn both on the wrong courses and the wrong advice, ending up further from a job — and far more discouraged — than when they started. That's the risk this programme is built to remove: a path shaped around exactly where you stand today, a mentor guiding you through every phase, and the peace of mind of knowing someone who's guided this at scale is steering you in the right direction — so reaching your goal gets fast-tracked, without the hassle or the guesswork.\""
+        - generic [ref=f1e416]: Rahul Shetty
+        - generic [ref=f1e417]: Program Manager, QA Career Accelerator
+    - generic [ref=f1e419]:
+      - generic [ref=f1e420]:
+        - heading "Real People. Real Results." [level=2] [ref=f1e421]
+        - paragraph [ref=f1e422]: Professionals who went through the programme and landed QA roles.
+      - generic [ref=f1e423]:
+        - generic [ref=f1e425]:
+          - generic [ref=f1e426]: Mentorship
+          - paragraph [ref=f1e439]: "\"The 1:1 strategy session with Rahul in week one reset my entire direction. He identified gaps I didn't even know I had and reordered my priorities completely. The weekly check-ins kept me accountable in a way no course ever could. Knowing someone with 15 years of experience is actually reviewing your work changes your standards — and your results.\""
+          - generic [ref=f1e440]:
+            - generic [ref=f1e441]: James T.
+            - generic [ref=f1e442]: QA Analyst
+            - generic [ref=f1e443]: Now working remotely from UK
+        - generic [ref=f1e445]:
+          - generic [ref=f1e446]: Course Quality
+          - paragraph [ref=f1e459]: "\"I'd watched a dozen courses before, but nothing clicked until Rahul's content. The depth, the real-world examples, the way each concept builds on the last — it's a completely different level. I actually understood what I was doing, not just copying syntax. That foundation made Phase 2 feel natural instead of overwhelming.\""
+          - generic [ref=f1e460]:
+            - generic [ref=f1e461]: Kiran M.
+            - generic [ref=f1e462]: Manual → Automation Tester
+            - generic [ref=f1e463]: Transitioned in 6 weeks
+        - generic [ref=f1e465]:
+          - generic [ref=f1e466]: Recruiter Visibility
+          - paragraph [ref=f1e479]: "\"The Techsmarthire skill assessments were a revelation. Within a week of completing them, two recruiters in my city reached out without me sending a single application. Having verified scores on a platform that hiring managers actually trust changed everything — I went from invisible to in-demand.\""
+          - generic [ref=f1e480]:
+            - generic [ref=f1e481]: Priya S.
+            - generic [ref=f1e482]: QA Automation Engineer
+            - generic [ref=f1e483]: Hired at a FinTech Startup
+    - generic [ref=f1e486]:
+      - generic [ref=f1e487]:
+        - heading "Meet Your Instructor" [level=2] [ref=f1e488]
+        - paragraph [ref=f1e489]: Learn from one of the world's most recognized QA Automation experts
+      - generic [ref=f1e493]:
+        - generic [ref=f1e494]:
+          - generic [ref=f1e495]: RS
+          - generic [ref=f1e497]:
+            - link "LinkedIn" [ref=f1e498] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/rahul-shetty-venkatesh/
+            - link "Udemy Portfolio" [ref=f1e504] [cursor=pointer]:
+              - /url: https://www.udemy.com/user/rahul445
+            - link "TechSmartHire" [ref=f1e509] [cursor=pointer]:
+              - /url: https://techsmarthire.com
+            - link "YouTube" [ref=f1e514] [cursor=pointer]:
+              - /url: https://www.youtube.com/@RahulShettyAcademy
+            - link "Instagram" [ref=f1e519] [cursor=pointer]:
+              - /url: https://www.instagram.com/rahulshettyacademy_qa/
+        - generic [ref=f1e525]:
+          - heading "Rahul Shetty" [level=3] [ref=f1e526]
+          - paragraph [ref=f1e527]: QA Instructor | Founder of Rahul Shetty Academy, QASummit & TechSmartHire
+          - generic [ref=f1e528]:
+            - generic [ref=f1e529]:
+              - generic [ref=f1e530]: 1M+
+              - generic [ref=f1e531]: Students
+            - generic [ref=f1e532]:
+              - generic [ref=f1e533]: 30+
+              - generic [ref=f1e534]: Courses
+            - generic [ref=f1e535]:
+              - generic [ref=f1e536]: "4.6"
+              - generic [ref=f1e537]: Avg Rating
+            - generic [ref=f1e538]:
+              - generic [ref=f1e539]: "195"
+              - generic [ref=f1e540]: Countries
+          - paragraph [ref=f1e541]: "Rahul Shetty (aka Venkatesh) is one of Udemy's most successful QA instructors, with over 1 million students from 195 countries and 30+ courses spanning Selenium, Playwright, AI Testing, Postman, Cypress, Appium, and more. His teaching style — practical, no-fluff, real-world — has made him the go-to name for QA professionals at every stage of their career. Building on that teaching success, Rahul co-founded TechSmartHire — a skill-based hiring platform that connects verified QA professionals directly with recruiters based on demonstrated competency, not just credentials. The QA Job Ready Package brings both worlds together: world-class instruction and direct recruiter visibility."
+          - generic [ref=f1e542]:
+            - generic [ref=f1e543]: Founder of Rahul Shetty Academy — leading EdTech platform for QA training globally
+            - generic [ref=f1e548]: Co-founder of TechSmartHire — skill-based platform connecting QA talent with top recruiters
+            - generic [ref=f1e553]: Organizer of QASummit — premier offline QA conference brand
+            - generic [ref=f1e558]: 15+ years of industry experience in QA & Test Automation
+            - generic [ref=f1e563]: Trained 1M+ QA professionals across 195 countries
+    - generic [ref=f1e569]:
+      - generic [ref=f1e570]:
+        - heading "Questions Before You Apply?" [level=2] [ref=f1e571]
+        - paragraph [ref=f1e572]: Everything you need to know about the QA Job Ready Package.
+      - generic [ref=f1e575]:
+        - heading [level=3] [ref=f1e577]:
+          - button "Who is this programme suitable for?" [ref=f1e578] [cursor=pointer]
+        - heading [level=3] [ref=f1e583]:
+          - button "What is the QA Job Ready Package?" [ref=f1e584] [cursor=pointer]
+        - heading [level=3] [ref=f1e589]:
+          - button "Does the learning path Rahul designs vary for every individual?" [ref=f1e590] [cursor=pointer]
+        - heading [level=3] [ref=f1e595]:
+          - button "Is the QA Job Ready application automatically approved?" [ref=f1e596] [cursor=pointer]
+        - heading [level=3] [ref=f1e601]:
+          - button "How much does the QA Job Ready Package cost?" [ref=f1e602] [cursor=pointer]
+        - heading [level=3] [ref=f1e607]:
+          - button "How long is the QA Job Ready programme?" [ref=f1e608] [cursor=pointer]
+        - heading [level=3] [ref=f1e613]:
+          - button "Do I get lifetime access to the courses, assignments, and interview library?" [ref=f1e614] [cursor=pointer]
+        - heading [level=3] [ref=f1e619]:
+          - button "What exactly is my mentor responsible for?" [ref=f1e620] [cursor=pointer]
+    - generic [ref=f1e625]:
+      - generic [ref=f1e626]:
+        - heading "One Flat Investment. Full Programme." [level=2] [ref=f1e627]
+        - paragraph [ref=f1e628]: No hidden charges. No success fees. Everything included from day one.
+      - generic [ref=f1e630]:
+        - generic [ref=f1e631]:
+          - generic [ref=f1e632]: Full Programme Fee
+          - generic [ref=f1e633]:
+            - generic [ref=f1e634]: $399
+            - generic [ref=f1e635]:
+              - generic [ref=f1e636]: or ₹28,999
+              - generic [ref=f1e637]: One-time · No recurring fees
+          - generic [ref=f1e638]: Everything included — courses, mentorship, assessments & recruiter visibility
+        - generic [ref=f1e643]:
+          - generic [ref=f1e644]: 90 days active mentor support
+          - generic [ref=f1e648]: Only 7 slots left
+          - generic [ref=f1e654]: Mentor-led & personalised
+        - button "Apply Now — 7 Slots Remaining" [ref=f1e659] [cursor=pointer]
+    - generic [ref=f1e662]:
+      - generic [ref=f1e663]:
+        - generic [ref=f1e664]: Express Your Interest
+        - heading "Ready to Accelerate Your QA Career?" [level=2] [ref=f1e665]
+        - paragraph [ref=f1e666]: Fill in your details below. Rahul's team will review your application and reach out within 2–3 business days.
+      - generic [ref=f1e667]:
+        - paragraph [ref=f1e671]: "Not all applications are approved — here's what happens after you submit:"
+        - generic [ref=f1e672]:
+          - generic [ref=f1e673]:
+            - generic [ref=f1e674]: "1"
+            - paragraph [ref=f1e679]: You Submit
+            - paragraph [ref=f1e680]: Fill in your application
+          - generic [ref=f1e681]:
+            - generic [ref=f1e682]: "2"
+            - paragraph [ref=f1e687]: Team Reviews
+            - paragraph [ref=f1e688]: We assess your profile in 2–3 days
+          - generic [ref=f1e689]:
+            - generic [ref=f1e690]: "3"
+            - paragraph [ref=f1e695]: Decision
+            - paragraph [ref=f1e696]: Approved candidates receive an offer
+      - generic [ref=f1e699]:
+        - generic [aria-hidden] [ref=f1e700]:
+          - text: Leave this field blank
+          - textbox [ref=f1e701]
+        - generic [ref=f1e702]:
+          - heading "1 Personal Information" [level=3] [ref=f1e703]:
+            - generic [ref=f1e704]: "1"
+            - text: Personal Information
+          - generic [ref=f1e705]:
+            - generic [ref=f1e706]:
+              - generic [ref=f1e707]: Full Name *
+              - textbox "Full Name *" [ref=f1e708]:
+                - /placeholder: John Doe
+            - generic [ref=f1e709]:
+              - generic [ref=f1e710]: Email Address *
+              - textbox "Email Address *" [ref=f1e711]:
+                - /placeholder: john@example.com
+            - generic [ref=f1e712]:
+              - generic [ref=f1e713]: Current Location (City, Country) *
+              - textbox "Current Location (City, Country) *" [ref=f1e714]:
+                - /placeholder: e.g. Bangalore, India
+            - generic [ref=f1e715]:
+              - generic [ref=f1e716]: Phone Number *
+              - textbox "Phone Number *" [ref=f1e717]:
+                - /placeholder: +1 555 000 0000
+            - generic [ref=f1e718]:
+              - generic [ref=f1e719]: LinkedIn Profile (optional)
+              - textbox "LinkedIn Profile (optional)" [ref=f1e720]:
+                - /placeholder: https://linkedin.com/in/yourprofile
+        - generic [ref=f1e721]:
+          - heading "2 Education & Background" [level=3] [ref=f1e722]:
+            - generic [ref=f1e723]: "2"
+            - text: Education & Background
+          - generic [ref=f1e724]:
+            - generic [ref=f1e725]:
+              - generic [ref=f1e726]: Highest Level of Education *
+              - combobox [ref=f1e727] [cursor=pointer]:
+                - generic: Select education level
+              - combobox [aria-hidden] [ref=f1e730]
+            - generic [ref=f1e731]:
+              - generic [ref=f1e732]: Field of Study *
+              - combobox [ref=f1e733] [cursor=pointer]:
+                - generic: Select field of study
+              - combobox [aria-hidden] [ref=f1e736]
+            - generic [ref=f1e737]:
+              - generic [ref=f1e738]: Years of Experience in QA (optional)
+              - textbox "Years of Experience in QA (optional)" [ref=f1e739]:
+                - /placeholder: e.g. 2 years manual testing
+            - generic [ref=f1e740]:
+              - generic [ref=f1e741]: Prior Automation Skills (optional)
+              - textbox "Prior Automation Skills (optional)" [ref=f1e742]:
+                - /placeholder: e.g. basic Selenium, some Python scripting
+        - generic [ref=f1e743]:
+          - heading "3 Programme Commitment" [level=3] [ref=f1e744]:
+            - generic [ref=f1e745]: "3"
+            - text: Programme Commitment
+          - generic [ref=f1e746]:
+            - generic [ref=f1e747]:
+              - generic [ref=f1e748]: Hours available per day for learning *
+              - combobox [ref=f1e749] [cursor=pointer]:
+                - generic: Select daily commitment
+              - combobox [aria-hidden] [ref=f1e752]
+            - generic [ref=f1e753]:
+              - generic [ref=f1e754]:
+                - text: Completed any
+                - link "Rahul Shetty" [ref=f1e755] [cursor=pointer]:
+                  - /url: "#meet-instructor"
+                - text: training before? *
+              - combobox [ref=f1e756] [cursor=pointer]:
+                - generic: Select an option
+              - combobox [aria-hidden] [ref=f1e759]
+            - generic [ref=f1e760]:
+              - generic [ref=f1e761]: What are your goals from this programme? *
+              - textbox "What are your goals from this programme? *" [ref=f1e762]:
+                - /placeholder: Tell us your current situation, target role, and timeline...
+            - generic [ref=f1e763]:
+              - generic [ref=f1e764]: How did you hear about this program? *
+              - combobox [ref=f1e765] [cursor=pointer]:
+                - generic: Select an option
+              - combobox [aria-hidden] [ref=f1e768]
+        - generic [ref=f1e769]:
+          - generic [ref=f1e770]:
+            - checkbox "If your application is approved and you decide to move forward, there is a programme fee of $399 (or ₹28,999) to secure your slot — no pressure, your call." [ref=f1e771] [cursor=pointer]
+            - checkbox [aria-hidden]
+            - generic [ref=f1e772] [cursor=pointer]: If your application is approved and you decide to move forward, there is a programme fee of $399 (or ₹28,999) to secure your slot — no pressure, your call.
+          - generic [ref=f1e773]:
+            - checkbox "I understand this is not automatic enrolment — slots are limited and active participation is required throughout." [ref=f1e774] [cursor=pointer]
+            - checkbox [aria-hidden]
+            - generic [ref=f1e775] [cursor=pointer]: I understand this is not automatic enrolment — slots are limited and active participation is required throughout.
+          - generic [ref=f1e776]:
+            - checkbox "I've gone through the complete program guidelines above and I'm aware of how this program works." [ref=f1e777] [cursor=pointer]
+            - checkbox [aria-hidden]
+            - generic [ref=f1e778] [cursor=pointer]: I've gone through the complete program guidelines above and I'm aware of how this program works.
+        - generic [ref=f1e779]:
+          - generic [ref=f1e780]: Human Verification *
+          - generic [ref=f1e781]:
+            - generic [ref=f1e782]:
+              - text: What is
+              - generic [ref=f1e783]: 6 + 5
+              - text: "?"
+            - spinbutton "Your answer" [ref=f1e784]
+        - button "Submit My Application" [ref=f1e785] [cursor=pointer]
+    - contentinfo [ref=f1e786]:
+      - generic [ref=f1e787]:
+        - generic [ref=f1e788]:
+          - generic [ref=f1e789]:
+            - generic [ref=f1e790]:
+              - heading "RAHUL SHETTY" [level=3] [ref=f1e791]
+              - paragraph [ref=f1e792]: Transforming careers through comprehensive QA testing education. Join 1M+ learners worldwide.
+            - link "Contact Us" [ref=f1e793] [cursor=pointer]:
+              - /url: /contact-us
+            - generic [ref=f1e797]:
+              - heading "Connect us on Socials" [level=4] [ref=f1e798]
+              - generic [ref=f1e799]:
+                - link [ref=f1e800] [cursor=pointer]:
+                  - /url: https://www.youtube.com/channel/UCgx5SDcUQWCQ_1CNneQzCRw
+                - link [ref=f1e804] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/rahul-shetty-venkatesh/
+                - link [ref=f1e809] [cursor=pointer]:
+                  - /url: https://www.instagram.com/rahulshettyofficial_venkat/
+          - generic [ref=f1e813]:
+            - heading "Navigation" [level=4] [ref=f1e814]
+            - generic [ref=f1e815]:
+              - link "All-Access" [ref=f1e816] [cursor=pointer]:
+                - /url: /all-access-subscription
+              - link "Learning Paths" [ref=f1e817] [cursor=pointer]:
+                - /url: /learning-paths
+              - link "Mentorship" [ref=f1e818] [cursor=pointer]:
+                - /url: /mentorship
+              - link "Career Accelerator" [ref=f1e819] [cursor=pointer]:
+                - /url: /qa-career-accelerator-job-ready
+              - link "Team Accelerator" [ref=f1e820] [cursor=pointer]:
+                - /url: /qa-career-accelerator-for-teams
+              - link "AI Learning PathNEW" [ref=f1e821] [cursor=pointer]:
+                - /url: /ai-learning-path
+              - link "Practice" [ref=f1e822] [cursor=pointer]:
+                - /url: /practice
+              - link "Meet ups" [ref=f1e823] [cursor=pointer]:
+                - /url: https://qasummit.org
+              - link "Blog" [ref=f1e824] [cursor=pointer]:
+                - /url: https://rahulshettyacademy.com/blog/
+              - link "Contact Us" [ref=f1e825] [cursor=pointer]:
+                - /url: /contact-us
+          - generic [ref=f1e826]:
+            - heading "Popular Courses" [level=4] [ref=f1e827]
+            - generic [ref=f1e828]:
+              - link "Selenium WebDriver" [ref=f1e829] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/selenium-webdriver-interview-questions-tutorial-1
+              - link "Playwright Testing" [ref=f1e830] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/playwright-js-ts-automation-testing-from-scratch-framework
+              - link "API Testing" [ref=f1e831] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/rest-api-automation-rest-assured-java
+              - link "AI Agents" [ref=f1e832] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/learn-agentic-ai-build-multi-agent-automation-workflow
+              - link "AI Testing Tools" [ref=f1e833] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/learn-generativen-ai-in-software-testing
+              - link "Browse All Courses" [ref=f1e834] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/courses
+          - generic [ref=f1e835]:
+            - heading "Support" [level=4] [ref=f1e836]
+            - generic [ref=f1e837]:
+              - link "Student Login" [ref=f1e838] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/sign_in
+              - link "Contact Us" [ref=f1e839] [cursor=pointer]:
+                - /url: /contact-us
+              - link "Help Center" [ref=f1e840] [cursor=pointer]:
+                - /url: "#"
+              - link "Community" [ref=f1e841] [cursor=pointer]:
+                - /url: "#"
+              - link "Terms of Service" [ref=f1e842] [cursor=pointer]:
+                - /url: /terms-of-service
+              - link "Privacy Policy" [ref=f1e843] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=f1e845]:
+          - generic [ref=f1e846]:
+            - paragraph [ref=f1e847]: © 2026 Rahul Shetty Academy. All rights reserved.
+            - generic [ref=f1e848]: •
+            - generic [ref=f1e849]: Built with ♥ for testers worldwide.
+          - generic [ref=f1e851]:
+            - generic [ref=f1e852]: contact@rahulshettyacademy.com
+            - generic [ref=f1e853]: Trusted by 1M+ QA Engineers

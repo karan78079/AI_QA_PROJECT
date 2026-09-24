@@ -1,0 +1,291 @@
+- generic [ref=f13e2]:
+  - region "Notifications (F8)":
+    - list
+  - region "Notifications alt+T"
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - generic: Limited Time — Free
+          - button "Dismiss popup"
+        - generic:
+          - heading "Join Our Academy & Unlock 2 Premium Courses — FREE" [level=3]: Join Our Academy & Unlock2 Premium Courses — FREE
+          - paragraph: Sign up once. No credit card. Instant access.
+        - list:
+          - listitem:
+            - generic: Java Design Patterns for Test Framework
+          - listitem:
+            - generic: SDET/QA Automation Interview Kit + Java Logic Programs
+        - link "Sign Up Free →":
+          - /url: https://courses.rahulshettyacademy.com/sign_up
+        - paragraph: Usually $197 · Now completely FREE
+  - generic [ref=f13e3]:
+    - navigation [ref=f13e4]:
+      - generic [ref=f13e6]:
+        - link [ref=f13e8] [cursor=pointer]:
+          - /url: /
+          - img "Rahul Shetty Academy" [ref=f13e9]
+        - generic [ref=f13e10]:
+          - link "Home" [ref=f13e11] [cursor=pointer]:
+            - /url: /
+          - link "All-Access" [ref=f13e15] [cursor=pointer]:
+            - /url: /all-access-subscription
+          - link "Learning Paths" [ref=f13e18] [cursor=pointer]:
+            - /url: /learning-paths
+          - link "Courses" [ref=f13e23] [cursor=pointer]:
+            - /url: /course-library
+          - link "Mentorship" [ref=f13e26] [cursor=pointer]:
+            - /url: /mentorship
+          - button "Career Accelerator (Job/Skill-Oriented) NEW" [ref=f13e32] [cursor=pointer]:
+            - generic [ref=f13e36]:
+              - generic [ref=f13e37]: Career Accelerator
+              - generic [ref=f13e40]: (Job/Skill-Oriented)
+            - generic [ref=f13e41]: NEW
+          - link "Practice Apps" [ref=f13e42] [cursor=pointer]:
+            - /url: /practice
+        - generic [ref=f13e47]:
+          - link "Contact Us" [ref=f13e48] [cursor=pointer]:
+            - /url: /contact-us
+          - button "Resources" [ref=f13e52] [cursor=pointer]
+          - link "Sign Up" [ref=f13e60] [cursor=pointer]:
+            - /url: https://courses.rahulshettyacademy.com/sign_up
+    - generic [ref=f13e61]:
+      - generic [ref=f13e62]: Latest
+      - generic [ref=f13e71]:
+        - generic [ref=f13e72]:
+          - generic [ref=f13e73]: ◆
+          - generic [ref=f13e74]:
+            - text: "🎤 New: QA Career Guidance Talk by Rahul Shetty — 3 hours of career strategy, AI era frameworks, and a 2026 roadmap."
+            - link "Watch Now" [ref=f13e75] [cursor=pointer]:
+              - /url: /qa-career-guidance-talk
+        - generic [ref=f13e76]:
+          - generic [ref=f13e77]: ◆
+          - generic [ref=f13e78]: "🚀 Just Released: New K6 Performance Testing Masterclass is now live- Checkout in Course library"
+        - generic [ref=f13e79]:
+          - generic [ref=f13e80]: ◆
+          - generic [ref=f13e81]:
+            - text: "💼 Get Shortlisted by Recruiters: Take QA skill assessments on"
+            - link "TechSmartHire" [ref=f13e82] [cursor=pointer]:
+              - /url: https://techsmarthire.com
+            - text: and unlock real job opportunities
+        - generic [ref=f13e83]:
+          - generic [ref=f13e84]: ◆
+          - generic [ref=f13e85]:
+            - text: "🧪 New Automation Playground: Practice Web & API Automation on our"
+            - link "Full Stack Event Hub demo application" [ref=f13e86] [cursor=pointer]:
+              - /url: https://eventhub.rahulshettyacademy.com/
+        - generic [ref=f13e87]:
+          - generic [ref=f13e88]: ◆
+          - generic [ref=f13e89]: "🤖 Agentic AI is here: Claude Code-powered QA workflows now covered in the Gen AI & AI Agents Testing course — watch the new additions."
+        - generic [ref=f13e90]:
+          - generic [ref=f13e91]: ◆
+          - generic [ref=f13e92]: 🔥 ISTQB AI Testing course crosses 1,500 students in just 14 days — Surge in demand for Certs
+        - generic [ref=f13e93]:
+          - generic [ref=f13e94]: ◆
+          - generic [ref=f13e95]:
+            - text: "🎓 Limited-Time Access: Unlock 40+ QA & AI courses with"
+            - link "All-Access Membership" [ref=f13e96] [cursor=pointer]:
+              - /url: /all-access-subscription
+            - text: for just $129*
+        - generic [ref=f13e97]:
+          - generic [ref=f13e98]: ◆
+          - generic [ref=f13e99]: "📈 Playwright Surge is Real: Learning consumption has increased by 250%+ in the last quarter"
+        - generic [ref=f13e100]:
+          - generic [ref=f13e101]: ─ ─ ─ ─ ─
+          - generic [ref=f13e102]:
+            - text: 📬 That's all for now —
+            - link "Subscribe to our Newsletter" [ref=f13e103] [cursor=pointer]:
+              - /url: https://courses.rahulshettyacademy.com/sign_up
+            - text: and get updates like these once a month.
+        - generic [ref=f13e104]:
+          - generic [ref=f13e105]: ◆
+          - generic [ref=f13e106]:
+            - text: "🎤 New: QA Career Guidance Talk by Rahul Shetty — 3 hours of career strategy, AI era frameworks, and a 2026 roadmap."
+            - link "Watch Now" [ref=f13e107] [cursor=pointer]:
+              - /url: /qa-career-guidance-talk
+        - generic [ref=f13e108]:
+          - generic [ref=f13e109]: ◆
+          - generic [ref=f13e110]: "🚀 Just Released: New K6 Performance Testing Masterclass is now live- Checkout in Course library"
+        - generic [ref=f13e111]:
+          - generic [ref=f13e112]: ◆
+          - generic [ref=f13e113]:
+            - text: "💼 Get Shortlisted by Recruiters: Take QA skill assessments on"
+            - link "TechSmartHire" [ref=f13e114] [cursor=pointer]:
+              - /url: https://techsmarthire.com
+            - text: and unlock real job opportunities
+        - generic [ref=f13e115]:
+          - generic [ref=f13e116]: ◆
+          - generic [ref=f13e117]:
+            - text: "🧪 New Automation Playground: Practice Web & API Automation on our"
+            - link "Full Stack Event Hub demo application" [ref=f13e118] [cursor=pointer]:
+              - /url: https://eventhub.rahulshettyacademy.com/
+        - generic [ref=f13e119]:
+          - generic [ref=f13e120]: ◆
+          - generic [ref=f13e121]: "🤖 Agentic AI is here: Claude Code-powered QA workflows now covered in the Gen AI & AI Agents Testing course — watch the new additions."
+        - generic [ref=f13e122]:
+          - generic [ref=f13e123]: ◆
+          - generic [ref=f13e124]: 🔥 ISTQB AI Testing course crosses 1,500 students in just 14 days — Surge in demand for Certs
+        - generic [ref=f13e125]:
+          - generic [ref=f13e126]: ◆
+          - generic [ref=f13e127]:
+            - text: "🎓 Limited-Time Access: Unlock 40+ QA & AI courses with"
+            - link "All-Access Membership" [ref=f13e128] [cursor=pointer]:
+              - /url: /all-access-subscription
+            - text: for just $129*
+        - generic [ref=f13e129]:
+          - generic [ref=f13e130]: ◆
+          - generic [ref=f13e131]: "📈 Playwright Surge is Real: Learning consumption has increased by 250%+ in the last quarter"
+        - generic [ref=f13e132]:
+          - generic [ref=f13e133]: ─ ─ ─ ─ ─
+          - generic [ref=f13e134]:
+            - text: 📬 That's all for now —
+            - link "Subscribe to our Newsletter" [ref=f13e135] [cursor=pointer]:
+              - /url: https://courses.rahulshettyacademy.com/sign_up
+            - text: and get updates like these once a month.
+    - generic [ref=f13e136]:
+      - heading "Terms of Service" [level=1] [ref=f13e137]
+      - paragraph [ref=f13e138]: "Last updated: January 12, 2026"
+    - generic [ref=f13e141]:
+      - generic [ref=f13e142]:
+        - heading "1. Acceptance of Terms" [level=2] [ref=f13e143]
+        - paragraph [ref=f13e145]: By accessing or enrolling in any course, program, or subscription offered by Rahul Shetty Academy ("we", "us", "our"), through this website or our course platform, you agree to be bound by these Terms of Service. If you do not agree with any part of these terms, please do not use our services or enroll in our courses.
+      - generic [ref=f13e146]:
+        - heading "2. Our Services" [level=2] [ref=f13e147]
+        - paragraph [ref=f13e149]: Rahul Shetty Academy provides online software testing and QA automation courses, learning paths, mentorship programs, and related educational content, delivered through our website and third-party course-hosting platforms. Course content, curriculum, pricing, and instructors may be updated or changed at our discretion to keep material current with industry practices.
+      - generic [ref=f13e150]:
+        - heading "3. Enrollment & Payment" [level=2] [ref=f13e151]
+        - paragraph [ref=f13e153]: Enrollment in a paid course or subscription is confirmed once payment is successfully processed. Prices are listed in the currency shown at checkout and may vary by region or promotional period. You are responsible for providing accurate billing and contact information at the time of enrollment.
+      - generic [ref=f13e154]:
+        - heading "4. Refund Policy" [level=2] [ref=f13e155]
+        - generic [ref=f13e157]:
+          - paragraph [ref=f13e158]:
+            - text: We want you to be confident in your purchase. If a course isn't the right fit, you may request a full refund within
+            - strong [ref=f13e159]: fourteen (14) calendar days
+            - text: of your original enrollment date by contacting us at
+            - link "contact@rahulshettyacademy.com" [ref=f13e160] [cursor=pointer]:
+              - /url: mailto:contact@rahulshettyacademy.com
+            - text: . Refund requests made after the 14-day window will not be honored.
+          - generic [ref=f13e164]:
+            - paragraph [ref=f13e165]: One-Refund Policy — No Exceptions
+            - paragraph [ref=f13e166]:
+              - text: Each student is entitled to
+              - strong [ref=f13e167]: only one refund, ever
+              - text: ", across all courses, programs, and enrollments with Rahul Shetty Academy. If you have already received a refund in the past and you enroll again — in the same course, a different course, or any bundle or subscription — you will"
+              - strong [ref=f13e168]: not
+              - text: be eligible for a second refund under any circumstances, regardless of how much (or how little) of the course you have accessed.
+            - paragraph [ref=f13e169]:
+              - text: A second refund request from a student who has previously been refunded will be treated as an attempt to game the refund policy and will be
+              - strong [ref=f13e170]: automatically and strictly declined
+              - text: . This applies even if the second request falls within a new 14-day window tied to the newer enrollment.
+            - paragraph [ref=f13e171]: Student identity for the purposes of this policy is determined by name, email address, phone number, and/or payment details — not solely by account or email — so re-enrolling under a different email address or account does not create a new refund eligibility.
+          - paragraph [ref=f13e172]: Refunds, where approved, are issued to the original payment method and may take 5–10 business days to reflect, depending on your bank or payment provider.
+      - generic [ref=f13e173]:
+        - heading "5. Course Access & License" [level=2] [ref=f13e174]
+        - paragraph [ref=f13e176]: Upon enrollment, you receive a limited, non-transferable, non-exclusive license to access the course content for your personal, non-commercial learning use. You may not copy, redistribute, resell, publicly share, or upload course videos, materials, or downloads to any other platform or with any other person who has not separately enrolled.
+      - generic [ref=f13e177]:
+        - heading "6. User Conduct" [level=2] [ref=f13e178]
+        - paragraph [ref=f13e180]: You agree to use our platform and community spaces (including forums, Slack, or Telegram groups) respectfully. We reserve the right to suspend or terminate access, without refund, for students who violate these terms, abuse the refund policy, share credentials, or engage in harassment or disruptive behavior toward instructors or other students.
+      - generic [ref=f13e181]:
+        - heading "7. Intellectual Property" [level=2] [ref=f13e182]
+        - paragraph [ref=f13e184]: All course content, videos, code samples, branding, and materials on this website and our course platform are the intellectual property of Rahul Shetty Academy or its licensors, and are protected by applicable copyright and intellectual property laws.
+      - generic [ref=f13e185]:
+        - heading "8. Disclaimer of Warranties" [level=2] [ref=f13e186]
+        - paragraph [ref=f13e188]: Our courses are provided for educational purposes. While we strive to keep content accurate and up to date, we do not guarantee specific employment, certification, or salary outcomes as a result of completing any course. Services are provided "as is" without warranties of any kind, express or implied.
+      - generic [ref=f13e189]:
+        - heading "9. Limitation of Liability" [level=2] [ref=f13e190]
+        - paragraph [ref=f13e192]: To the maximum extent permitted by law, Rahul Shetty Academy shall not be liable for any indirect, incidental, or consequential damages arising from your use of, or inability to use, our courses or website.
+      - generic [ref=f13e193]:
+        - heading "10. Changes to These Terms" [level=2] [ref=f13e194]
+        - paragraph [ref=f13e196]: We may update these Terms of Service from time to time to reflect changes in our courses, policies, or legal requirements. Continued use of our services after changes are posted constitutes acceptance of the revised terms.
+      - generic [ref=f13e197]:
+        - heading "11. Governing Law" [level=2] [ref=f13e198]
+        - paragraph [ref=f13e200]: These terms are governed by the laws of India, and any disputes will be subject to the exclusive jurisdiction of the courts in Bangalore, Karnataka, India.
+      - generic [ref=f13e201]:
+        - heading "12. Contact Us" [level=2] [ref=f13e202]
+        - paragraph [ref=f13e204]:
+          - text: For questions about these Terms of Service or our refund policy, reach us at
+          - link "contact@rahulshettyacademy.com" [ref=f13e205] [cursor=pointer]:
+            - /url: mailto:contact@rahulshettyacademy.com
+          - text: or visit our
+          - link "Contact Us" [ref=f13e206] [cursor=pointer]:
+            - /url: /contact-us
+          - text: page.
+    - contentinfo [ref=f13e207]:
+      - generic [ref=f13e208]:
+        - generic [ref=f13e209]:
+          - generic [ref=f13e210]:
+            - generic [ref=f13e211]:
+              - heading "RAHUL SHETTY" [level=3] [ref=f13e212]
+              - paragraph [ref=f13e213]: Transforming careers through comprehensive QA testing education. Join 1M+ learners worldwide.
+            - link "Contact Us" [ref=f13e214] [cursor=pointer]:
+              - /url: /contact-us
+            - generic [ref=f13e218]:
+              - heading "Connect us on Socials" [level=4] [ref=f13e219]
+              - generic [ref=f13e220]:
+                - link [ref=f13e221] [cursor=pointer]:
+                  - /url: https://www.youtube.com/channel/UCgx5SDcUQWCQ_1CNneQzCRw
+                - link [ref=f13e225] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/rahul-shetty-venkatesh/
+                - link [ref=f13e230] [cursor=pointer]:
+                  - /url: https://www.instagram.com/rahulshettyofficial_venkat/
+          - generic [ref=f13e234]:
+            - heading "Navigation" [level=4] [ref=f13e235]
+            - generic [ref=f13e236]:
+              - link "All-Access" [ref=f13e237] [cursor=pointer]:
+                - /url: /all-access-subscription
+              - link "Learning Paths" [ref=f13e238] [cursor=pointer]:
+                - /url: /learning-paths
+              - link "Mentorship" [ref=f13e239] [cursor=pointer]:
+                - /url: /mentorship
+              - link "Career Accelerator" [ref=f13e240] [cursor=pointer]:
+                - /url: /qa-career-accelerator-job-ready
+              - link "Team Accelerator" [ref=f13e241] [cursor=pointer]:
+                - /url: /qa-career-accelerator-for-teams
+              - link "AI Learning PathNEW" [ref=f13e242] [cursor=pointer]:
+                - /url: /ai-learning-path
+              - link "Practice" [ref=f13e243] [cursor=pointer]:
+                - /url: /practice
+              - link "Meet ups" [ref=f13e244] [cursor=pointer]:
+                - /url: https://qasummit.org
+              - link "Blog" [ref=f13e245] [cursor=pointer]:
+                - /url: https://rahulshettyacademy.com/blog/
+              - link "Contact Us" [ref=f13e246] [cursor=pointer]:
+                - /url: /contact-us
+          - generic [ref=f13e247]:
+            - heading "Popular Courses" [level=4] [ref=f13e248]
+            - generic [ref=f13e249]:
+              - link "Selenium WebDriver" [ref=f13e250] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/selenium-webdriver-interview-questions-tutorial-1
+              - link "Playwright Testing" [ref=f13e251] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/playwright-js-ts-automation-testing-from-scratch-framework
+              - link "API Testing" [ref=f13e252] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/rest-api-automation-rest-assured-java
+              - link "AI Agents" [ref=f13e253] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/learn-agentic-ai-build-multi-agent-automation-workflow
+              - link "AI Testing Tools" [ref=f13e254] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/learn-generativen-ai-in-software-testing
+              - link "Browse All Courses" [ref=f13e255] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/courses
+          - generic [ref=f13e256]:
+            - heading "Support" [level=4] [ref=f13e257]
+            - generic [ref=f13e258]:
+              - link "Student Login" [ref=f13e259] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/sign_in
+              - link "Contact Us" [ref=f13e260] [cursor=pointer]:
+                - /url: /contact-us
+              - link "Help Center" [ref=f13e261] [cursor=pointer]:
+                - /url: "#"
+              - link "Community" [ref=f13e262] [cursor=pointer]:
+                - /url: "#"
+              - link "Terms of Service" [ref=f13e263] [cursor=pointer]:
+                - /url: /terms-of-service
+              - link "Privacy Policy" [ref=f13e264] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=f13e266]:
+          - generic [ref=f13e267]:
+            - paragraph [ref=f13e268]: © 2026 Rahul Shetty Academy. All rights reserved.
+            - generic [ref=f13e269]: •
+            - generic [ref=f13e270]: Built with ♥ for testers worldwide.
+          - generic [ref=f13e272]:
+            - generic [ref=f13e273]: contact@rahulshettyacademy.com
+            - generic [ref=f13e274]: Trusted by 1M+ QA Engineers

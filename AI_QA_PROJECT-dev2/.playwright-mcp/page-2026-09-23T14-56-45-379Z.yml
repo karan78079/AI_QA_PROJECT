@@ -1,0 +1,694 @@
+- generic [ref=f5e2]:
+  - region "Notifications (F8)":
+    - list
+  - region "Notifications alt+T"
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - generic: Limited Time — Free
+          - button "Dismiss popup"
+        - generic:
+          - heading "Join Our Academy & Unlock 2 Premium Courses — FREE" [level=3]: Join Our Academy & Unlock2 Premium Courses — FREE
+          - paragraph: Sign up once. No credit card. Instant access.
+        - list:
+          - listitem:
+            - generic: Java Design Patterns for Test Framework
+          - listitem:
+            - generic: SDET/QA Automation Interview Kit + Java Logic Programs
+        - link "Sign Up Free →":
+          - /url: https://courses.rahulshettyacademy.com/sign_up
+        - paragraph: Usually $197 · Now completely FREE
+  - generic [ref=f5e3]:
+    - navigation [ref=f5e4]:
+      - generic [ref=f5e6]:
+        - link [ref=f5e8] [cursor=pointer]:
+          - /url: /
+          - img "Rahul Shetty Academy" [ref=f5e9]
+        - generic [ref=f5e10]:
+          - link "Home" [ref=f5e11] [cursor=pointer]:
+            - /url: /
+          - link "All-Access" [ref=f5e15] [cursor=pointer]:
+            - /url: /all-access-subscription
+          - link "Learning Paths" [ref=f5e18] [cursor=pointer]:
+            - /url: /learning-paths
+          - link "Courses" [ref=f5e23] [cursor=pointer]:
+            - /url: /course-library
+          - link "Mentorship" [ref=f5e26] [cursor=pointer]:
+            - /url: /mentorship
+          - button "Career Accelerator (Job/Skill-Oriented) NEW" [ref=f5e32] [cursor=pointer]:
+            - generic [ref=f5e36]:
+              - generic [ref=f5e37]: Career Accelerator
+              - generic [ref=f5e40]: (Job/Skill-Oriented)
+            - generic [ref=f5e41]: NEW
+          - link "Practice Apps" [ref=f5e42] [cursor=pointer]:
+            - /url: /practice
+        - generic [ref=f5e47]:
+          - link "Contact Us" [ref=f5e48] [cursor=pointer]:
+            - /url: /contact-us
+          - button "Resources" [ref=f5e52] [cursor=pointer]
+          - link "Sign Up" [ref=f5e60] [cursor=pointer]:
+            - /url: https://courses.rahulshettyacademy.com/sign_up
+    - generic [ref=f5e61]:
+      - generic [ref=f5e62]: Latest
+      - generic [ref=f5e71]:
+        - generic [ref=f5e72]:
+          - generic [ref=f5e73]: ◆
+          - generic [ref=f5e74]:
+            - text: "🎤 New: QA Career Guidance Talk by Rahul Shetty — 3 hours of career strategy, AI era frameworks, and a 2026 roadmap."
+            - link "Watch Now" [ref=f5e75] [cursor=pointer]:
+              - /url: /qa-career-guidance-talk
+        - generic [ref=f5e76]:
+          - generic [ref=f5e77]: ◆
+          - generic [ref=f5e78]: "🚀 Just Released: New K6 Performance Testing Masterclass is now live- Checkout in Course library"
+        - generic [ref=f5e79]:
+          - generic [ref=f5e80]: ◆
+          - generic [ref=f5e81]:
+            - text: "💼 Get Shortlisted by Recruiters: Take QA skill assessments on"
+            - link "TechSmartHire" [ref=f5e82] [cursor=pointer]:
+              - /url: https://techsmarthire.com
+            - text: and unlock real job opportunities
+        - generic [ref=f5e83]:
+          - generic [ref=f5e84]: ◆
+          - generic [ref=f5e85]:
+            - text: "🧪 New Automation Playground: Practice Web & API Automation on our"
+            - link "Full Stack Event Hub demo application" [ref=f5e86] [cursor=pointer]:
+              - /url: https://eventhub.rahulshettyacademy.com/
+        - generic [ref=f5e87]:
+          - generic [ref=f5e88]: ◆
+          - generic [ref=f5e89]: "🤖 Agentic AI is here: Claude Code-powered QA workflows now covered in the Gen AI & AI Agents Testing course — watch the new additions."
+        - generic [ref=f5e90]:
+          - generic [ref=f5e91]: ◆
+          - generic [ref=f5e92]: 🔥 ISTQB AI Testing course crosses 1,500 students in just 14 days — Surge in demand for Certs
+        - generic [ref=f5e93]:
+          - generic [ref=f5e94]: ◆
+          - generic [ref=f5e95]:
+            - text: "🎓 Limited-Time Access: Unlock 40+ QA & AI courses with"
+            - link "All-Access Membership" [ref=f5e96] [cursor=pointer]:
+              - /url: /all-access-subscription
+            - text: for just $129*
+        - generic [ref=f5e97]:
+          - generic [ref=f5e98]: ◆
+          - generic [ref=f5e99]: "📈 Playwright Surge is Real: Learning consumption has increased by 250%+ in the last quarter"
+        - generic [ref=f5e100]:
+          - generic [ref=f5e101]: ─ ─ ─ ─ ─
+          - generic [ref=f5e102]:
+            - text: 📬 That's all for now —
+            - link "Subscribe to our Newsletter" [ref=f5e103] [cursor=pointer]:
+              - /url: https://courses.rahulshettyacademy.com/sign_up
+            - text: and get updates like these once a month.
+        - generic [ref=f5e104]:
+          - generic [ref=f5e105]: ◆
+          - generic [ref=f5e106]:
+            - text: "🎤 New: QA Career Guidance Talk by Rahul Shetty — 3 hours of career strategy, AI era frameworks, and a 2026 roadmap."
+            - link "Watch Now" [ref=f5e107] [cursor=pointer]:
+              - /url: /qa-career-guidance-talk
+        - generic [ref=f5e108]:
+          - generic [ref=f5e109]: ◆
+          - generic [ref=f5e110]: "🚀 Just Released: New K6 Performance Testing Masterclass is now live- Checkout in Course library"
+        - generic [ref=f5e111]:
+          - generic [ref=f5e112]: ◆
+          - generic [ref=f5e113]:
+            - text: "💼 Get Shortlisted by Recruiters: Take QA skill assessments on"
+            - link "TechSmartHire" [ref=f5e114] [cursor=pointer]:
+              - /url: https://techsmarthire.com
+            - text: and unlock real job opportunities
+        - generic [ref=f5e115]:
+          - generic [ref=f5e116]: ◆
+          - generic [ref=f5e117]:
+            - text: "🧪 New Automation Playground: Practice Web & API Automation on our"
+            - link "Full Stack Event Hub demo application" [ref=f5e118] [cursor=pointer]:
+              - /url: https://eventhub.rahulshettyacademy.com/
+        - generic [ref=f5e119]:
+          - generic [ref=f5e120]: ◆
+          - generic [ref=f5e121]: "🤖 Agentic AI is here: Claude Code-powered QA workflows now covered in the Gen AI & AI Agents Testing course — watch the new additions."
+        - generic [ref=f5e122]:
+          - generic [ref=f5e123]: ◆
+          - generic [ref=f5e124]: 🔥 ISTQB AI Testing course crosses 1,500 students in just 14 days — Surge in demand for Certs
+        - generic [ref=f5e125]:
+          - generic [ref=f5e126]: ◆
+          - generic [ref=f5e127]:
+            - text: "🎓 Limited-Time Access: Unlock 40+ QA & AI courses with"
+            - link "All-Access Membership" [ref=f5e128] [cursor=pointer]:
+              - /url: /all-access-subscription
+            - text: for just $129*
+        - generic [ref=f5e129]:
+          - generic [ref=f5e130]: ◆
+          - generic [ref=f5e131]: "📈 Playwright Surge is Real: Learning consumption has increased by 250%+ in the last quarter"
+        - generic [ref=f5e132]:
+          - generic [ref=f5e133]: ─ ─ ─ ─ ─
+          - generic [ref=f5e134]:
+            - text: 📬 That's all for now —
+            - link "Subscribe to our Newsletter" [ref=f5e135] [cursor=pointer]:
+              - /url: https://courses.rahulshettyacademy.com/sign_up
+            - text: and get updates like these once a month.
+    - generic [ref=f5e137]:
+      - generic [ref=f5e138]: Course Library
+      - heading "Master In-Demand QA Skills" [level=1] [ref=f5e141]
+      - paragraph [ref=f5e142]: Practical, job-ready courses built by Rahul Shetty — from beginner to architect.
+      - generic [ref=f5e143]:
+        - generic [ref=f5e151]:
+          - generic [ref=f5e152]: 1M+
+          - generic [ref=f5e153]: Students Worldwide
+        - generic [ref=f5e159]:
+          - generic [ref=f5e160]: 30+
+          - generic [ref=f5e161]: Expert Courses
+        - generic [ref=f5e166]:
+          - generic [ref=f5e167]: "4.8"
+          - generic [ref=f5e168]: Avg. Rating
+    - generic [ref=f5e170]:
+      - generic [ref=f5e171]:
+        - button "All Courses" [ref=f5e172] [cursor=pointer]
+        - button "Automation" [ref=f5e173] [cursor=pointer]
+        - button "API Testing" [ref=f5e174] [cursor=pointer]
+        - button "AI Testing" [ref=f5e175] [cursor=pointer]
+        - button "Mobile" [ref=f5e176] [cursor=pointer]
+        - button "Bundles" [ref=f5e177] [cursor=pointer]
+      - paragraph [ref=f5e178]: 22 courses
+    - generic [ref=f5e179]:
+      - generic [ref=f5e180]:
+        - generic [ref=f5e181] [cursor=pointer]:
+          - generic [ref=f5e182]:
+            - img "Playwright JS/TS Automation Testing from Scratch & Framework" [ref=f5e183]
+            - generic [ref=f5e185]: Best Seller
+            - generic [ref=f5e186]: Automation
+          - generic [ref=f5e191]:
+            - generic [ref=f5e192]: Beginner to Advanced
+            - heading "Playwright JS/TS Automation Testing from Scratch & Framework" [level=3] [ref=f5e193]
+            - paragraph [ref=f5e194]: JavaScript & TypeScript, Web & API Testing
+            - paragraph [ref=f5e195]: Master Playwright for web and API automation using JS/TS — with AI Agents, MCP Servers, BDD frameworks, Trace Viewer, and CI/CD. No prior JS experience needed.
+            - generic [ref=f5e196]:
+              - generic [ref=f5e197]: "4.6"
+              - generic [ref=f5e200]: ·
+              - generic [ref=f5e201]: 140k+
+              - generic [ref=f5e207]: ·
+              - generic [ref=f5e208]: 25 hrs
+            - generic [ref=f5e212]:
+              - generic [ref=f5e213]: Automation
+              - generic [ref=f5e214]: Learn More
+        - generic [ref=f5e218] [cursor=pointer]:
+          - generic [ref=f5e219]:
+            - img "GenAI & AI Agents for QA Automation" [ref=f5e220]
+            - generic [ref=f5e222]: Best Seller
+            - generic [ref=f5e223]: AI Testing
+          - generic [ref=f5e228]:
+            - generic [ref=f5e229]: Intermediate to Advanced
+            - heading "GenAI & AI Agents for QA Automation" [level=3] [ref=f5e230]
+            - paragraph [ref=f5e231]: Copilot, Claude, n8n, MCP & Agentic Solutions
+            - paragraph [ref=f5e232]: Masterclass on boosting testing productivity with AI Agents — Copilot, Claude, n8n, MCP Servers, and Agentic AI workflows for real-world QA automation scenarios.
+            - generic [ref=f5e233]:
+              - generic [ref=f5e234]: "4.6"
+              - generic [ref=f5e237]: ·
+              - generic [ref=f5e238]: 125k+
+              - generic [ref=f5e244]: ·
+              - generic [ref=f5e245]: 11 hrs
+            - generic [ref=f5e249]:
+              - generic [ref=f5e250]: AI Testing
+              - generic [ref=f5e251]: Learn More
+        - generic [ref=f5e255] [cursor=pointer]:
+          - generic [ref=f5e256]:
+            - img "Selenium WebDriver with Java — Basics to Advanced + Frameworks" [ref=f5e257]
+            - generic [ref=f5e259]: Best Seller
+            - generic [ref=f5e260]: Automation
+          - generic [ref=f5e265]:
+            - generic [ref=f5e266]: Beginner to Advanced
+            - heading "Selenium WebDriver with Java — Basics to Advanced + Frameworks" [level=3] [ref=f5e267]
+            - paragraph [ref=f5e268]: Top-Rated Selenium 4 Course
+            - paragraph [ref=f5e269]: "#1 rated Selenium course with 5M+ learners worldwide. Master Selenium 4 with Java, TestNG, Maven, Page Object Model, and enterprise-grade automation frameworks from scratch."
+            - generic [ref=f5e270]:
+              - generic [ref=f5e271]: "4.6"
+              - generic [ref=f5e274]: ·
+              - generic [ref=f5e275]: 500k+
+              - generic [ref=f5e281]: ·
+              - generic [ref=f5e282]: 56 hrs
+            - generic [ref=f5e286]:
+              - generic [ref=f5e287]: Automation
+              - generic [ref=f5e288]: Learn More
+        - generic [ref=f5e292] [cursor=pointer]:
+          - generic [ref=f5e293]:
+            - img "Learn Agentic AI — Build Multi-Agent Automation Workflows" [ref=f5e294]
+            - generic [ref=f5e296]: Trending
+            - generic [ref=f5e297]: AI Testing
+          - generic [ref=f5e302]:
+            - generic [ref=f5e303]: Intermediate to Advanced
+            - heading "Learn Agentic AI — Build Multi-Agent Automation Workflows" [level=3] [ref=f5e304]
+            - paragraph [ref=f5e305]: AutoGen, Multi-Agent Workflows & MCP
+            - paragraph [ref=f5e306]: Build autonomous AI agents with AutoGen and MCP — end-to-end agentic AI workflows with 6 agents for real-world automation. Go beyond prompt engineering into true AI orchestration.
+            - generic [ref=f5e307]:
+              - generic [ref=f5e308]: "4.6"
+              - generic [ref=f5e311]: ·
+              - generic [ref=f5e312]: 38k+
+              - generic [ref=f5e318]: ·
+              - generic [ref=f5e319]: 10 hrs
+            - generic [ref=f5e323]:
+              - generic [ref=f5e324]: AI Testing
+              - generic [ref=f5e325]: Learn More
+        - generic [ref=f5e329] [cursor=pointer]:
+          - generic [ref=f5e330]:
+            - img "Playwright PYTHON Automation Testing — From Zero to Expert" [ref=f5e331]
+            - generic [ref=f5e333]: New
+            - generic [ref=f5e334]: Automation
+          - generic [ref=f5e339]:
+            - generic [ref=f5e340]: Beginner to Advanced
+            - heading "Playwright PYTHON Automation Testing — From Zero to Expert" [level=3] [ref=f5e341]
+            - paragraph [ref=f5e342]: Python + Playwright + pytest — From Scratch
+            - paragraph [ref=f5e343]: Brand new practical training on Python and Playwright for web and API automation from scratch — with pytest, fixtures, advanced selectors, and CI/CD pipeline integration.
+            - generic [ref=f5e344]:
+              - generic [ref=f5e345]: "4.6"
+              - generic [ref=f5e348]: ·
+              - generic [ref=f5e349]: 31k+
+              - generic [ref=f5e355]: ·
+              - generic [ref=f5e356]: 13.5 hrs
+            - generic [ref=f5e360]:
+              - generic [ref=f5e361]: Automation
+              - generic [ref=f5e362]: Learn More
+        - generic [ref=f5e366] [cursor=pointer]:
+          - generic [ref=f5e367]:
+            - 'img "Testing AI Systems with DeepEval: AI Agents, Chatbots & RAG" [ref=f5e368]'
+            - generic [ref=f5e370]: New
+            - generic [ref=f5e371]: AI Testing
+          - generic [ref=f5e376]:
+            - generic [ref=f5e377]: Beginner to Intermediate
+            - 'heading "Testing AI Systems with DeepEval: AI Agents, Chatbots & RAG" [level=3] [ref=f5e378]'
+            - paragraph [ref=f5e379]: Test AI Agents, Chatbots & RAG Apps with DeepEval using Metrics, Tracing, Goldens, Safety Evals & G-Eval Custom Metrics
+            - paragraph [ref=f5e380]: Understand, evaluate, and test RAG and LLM-based AI systems from scratch using RAGAS, Python, and Pytest — with real evaluation metrics for modern AI-powered applications.
+            - generic [ref=f5e381]:
+              - generic [ref=f5e382]: "4.6"
+              - generic [ref=f5e385]: ·
+              - generic [ref=f5e386]: 27k+
+              - generic [ref=f5e392]: ·
+              - generic [ref=f5e393]: 8.5 hrs
+            - generic [ref=f5e397]:
+              - generic [ref=f5e398]: AI Testing
+              - generic [ref=f5e399]: Learn More
+        - generic [ref=f5e403] [cursor=pointer]:
+          - generic [ref=f5e404]:
+            - img "Rest API Testing from Scratch — Rest Assured Java" [ref=f5e405]
+            - generic [ref=f5e407]: Best Seller
+            - generic [ref=f5e408]: API Testing
+          - generic [ref=f5e413]:
+            - generic [ref=f5e414]: Intermediate
+            - heading "Rest API Testing from Scratch — Rest Assured Java" [level=3] [ref=f5e415]
+            - paragraph [ref=f5e416]: Top-Ranked API Automation with Java
+            - paragraph [ref=f5e417]: Top-ranked REST API automation course with Java. Master Rest Assured, Postman, OAuth, JSON/XML schema validation, and build real API frameworks with live project exercises.
+            - generic [ref=f5e418]:
+              - generic [ref=f5e419]: "4.5"
+              - generic [ref=f5e422]: ·
+              - generic [ref=f5e423]: 85k+
+              - generic [ref=f5e429]: ·
+              - generic [ref=f5e430]: 24.5 hrs
+            - generic [ref=f5e434]:
+              - generic [ref=f5e435]: API Testing
+              - generic [ref=f5e436]: Learn More
+        - generic [ref=f5e440] [cursor=pointer]:
+          - generic [ref=f5e441]:
+            - img "2026 — ISTQB AI Testing (CT-AI) Certification" [ref=f5e442]
+            - generic [ref=f5e444]: New
+            - generic [ref=f5e445]: AI Testing
+          - generic [ref=f5e450]:
+            - generic [ref=f5e451]: Intermediate
+            - heading "2026 — ISTQB AI Testing (CT-AI) Certification" [level=3] [ref=f5e452]
+            - paragraph [ref=f5e453]: Crash Course + 200+ Practice Quizzes
+            - paragraph [ref=f5e454]: Complete ISTQB CT-AI certification prep — AI testing explained for testers with 200+ practice quizzes, exam strategies, and real-world AI quality assurance scenarios.
+            - generic [ref=f5e455]:
+              - generic [ref=f5e456]: "4.5"
+              - generic [ref=f5e459]: ·
+              - generic [ref=f5e460]: 29k+
+              - generic [ref=f5e466]: ·
+              - generic [ref=f5e467]: 9 hrs
+            - generic [ref=f5e471]:
+              - generic [ref=f5e472]: AI Testing
+              - generic [ref=f5e473]: Learn More
+        - generic [ref=f5e477] [cursor=pointer]:
+          - generic [ref=f5e478]:
+            - img "LangChain Framework for Beginners — Build AI Systems + RAG" [ref=f5e479]
+            - generic [ref=f5e481]: Trending
+            - generic [ref=f5e482]: AI Testing
+          - generic [ref=f5e487]:
+            - generic [ref=f5e488]: Beginner to Advanced
+            - heading "LangChain Framework for Beginners — Build AI Systems + RAG" [level=3] [ref=f5e489]
+            - paragraph [ref=f5e490]: AI Agents, RAG Pipelines & MCP Integration
+            - paragraph [ref=f5e491]: Learn LangChain 1.0 with TypeScript — build AI agents, RAG pipelines, agentic RAG, and MCP integrations. The definitive beginner-to-builder course for LangChain AI apps.
+            - generic [ref=f5e492]:
+              - generic [ref=f5e493]: "4.7"
+              - generic [ref=f5e496]: ·
+              - generic [ref=f5e497]: 26k+
+              - generic [ref=f5e503]: ·
+              - generic [ref=f5e504]: 6.5 hrs
+            - generic [ref=f5e508]:
+              - generic [ref=f5e509]: AI Testing
+              - generic [ref=f5e510]: Learn More
+        - generic [ref=f5e514] [cursor=pointer]:
+          - generic [ref=f5e515]:
+            - img "Postman — API Testing from Scratch with Live Projects" [ref=f5e516]
+            - generic [ref=f5e518]: Popular
+            - generic [ref=f5e519]: API Testing
+          - generic [ref=f5e524]:
+            - generic [ref=f5e525]: Beginner to Advanced
+            - heading "Postman — API Testing from Scratch with Live Projects" [level=3] [ref=f5e526]
+            - paragraph [ref=f5e527]: Basics to Advanced API Automation
+            - paragraph [ref=f5e528]: Basics to advanced Postman automation — learn API and web services testing with Newman CLI, JavaScript tests, CI/CD integration, and real-world live API projects.
+            - generic [ref=f5e529]:
+              - generic [ref=f5e530]: "4.6"
+              - generic [ref=f5e533]: ·
+              - generic [ref=f5e534]: 62.5k+
+              - generic [ref=f5e540]: ·
+              - generic [ref=f5e541]: 13.5 hrs
+            - generic [ref=f5e545]:
+              - generic [ref=f5e546]: API Testing
+              - generic [ref=f5e547]: Learn More
+        - generic [ref=f5e551] [cursor=pointer]:
+          - generic [ref=f5e552]:
+            - img "Introduction to Machine Learning Models (AI) Testing" [ref=f5e553]
+            - generic [ref=f5e555]: New
+            - generic [ref=f5e556]: AI Testing
+          - generic [ref=f5e561]:
+            - generic [ref=f5e562]: Beginner
+            - heading "Introduction to Machine Learning Models (AI) Testing" [level=3] [ref=f5e563]
+            - paragraph [ref=f5e564]: ML & AI Systems Testing Strategies
+            - paragraph [ref=f5e565]: Learn testing types and strategies for all phases of machine learning models — from data validation to model evaluation — with real-world AI testing examples and frameworks.
+            - generic [ref=f5e566]:
+              - generic [ref=f5e567]: "4.4"
+              - generic [ref=f5e570]: ·
+              - generic [ref=f5e571]: 33k+
+              - generic [ref=f5e577]: ·
+              - generic [ref=f5e578]: 5 hrs
+            - generic [ref=f5e582]:
+              - generic [ref=f5e583]: AI Testing
+              - generic [ref=f5e584]: Learn More
+        - generic [ref=f5e588] [cursor=pointer]:
+          - generic [ref=f5e589]:
+            - img "Top 150+ QA Automation Interview Questions & Resume Tips" [ref=f5e590]
+            - generic [ref=f5e592]: Popular
+            - generic [ref=f5e593]: Automation
+          - generic [ref=f5e598]:
+            - generic [ref=f5e599]: Intermediate to Advanced
+            - heading "Top 150+ QA Automation Interview Questions & Resume Tips" [level=3] [ref=f5e600]
+            - paragraph [ref=f5e601]: Selenium, API, TestNG, SQL, Cucumber & Java
+            - paragraph [ref=f5e602]: Job-oriented QA interview prep covering Selenium, API testing, TestNG, SQL, Cucumber, and Java programs — with resume tips to land automation engineering roles.
+            - generic [ref=f5e603]:
+              - generic [ref=f5e604]: "4.6"
+              - generic [ref=f5e607]: ·
+              - generic [ref=f5e608]: 47k+
+              - generic [ref=f5e614]: ·
+              - generic [ref=f5e615]: 11 hrs
+            - generic [ref=f5e619]:
+              - generic [ref=f5e620]: Automation
+              - generic [ref=f5e621]: Learn More
+        - generic [ref=f5e625] [cursor=pointer]:
+          - generic [ref=f5e626]:
+            - img "Selenium WebDriver with PYTHON from Scratch + Frameworks" [ref=f5e627]
+            - generic [ref=f5e629]: Best Seller
+            - generic [ref=f5e630]: Automation
+          - generic [ref=f5e635]:
+            - generic [ref=f5e636]: Beginner to Advanced
+            - heading "Selenium WebDriver with PYTHON from Scratch + Frameworks" [level=3] [ref=f5e637]
+            - paragraph [ref=f5e638]: Python Programming + Selenium V4 + Live Projects
+            - paragraph [ref=f5e639]: Learn Python programming and Selenium V4 automation from basics to advanced — including 5 live projects, pytest, Page Object Model, and real-world framework design.
+            - generic [ref=f5e640]:
+              - generic [ref=f5e641]: "4.6"
+              - generic [ref=f5e644]: ·
+              - generic [ref=f5e645]: 78k+
+              - generic [ref=f5e651]: ·
+              - generic [ref=f5e652]: 18 hrs
+            - generic [ref=f5e656]:
+              - generic [ref=f5e657]: Automation
+              - generic [ref=f5e658]: Learn More
+        - generic [ref=f5e662] [cursor=pointer]:
+          - generic [ref=f5e663]:
+            - img "K6 — Performance Testing Masterclass with JavaScript" [ref=f5e664]
+            - generic [ref=f5e666]: New
+            - generic [ref=f5e667]: Automation
+          - generic [ref=f5e672]:
+            - generic [ref=f5e673]: Intermediate
+            - heading "K6 — Performance Testing Masterclass with JavaScript" [level=3] [ref=f5e674]
+            - paragraph [ref=f5e675]: API & Browser Load Testing + Grafana Cloud
+            - paragraph [ref=f5e676]: Learn API and browser load testing with K6 in JavaScript — covering web vitals, core performance metrics, threshold configurations, and Grafana Cloud dashboard integration.
+            - generic [ref=f5e677]:
+              - generic [ref=f5e678]: "4.7"
+              - generic [ref=f5e681]: ·
+              - generic [ref=f5e682]: 25.5k+
+              - generic [ref=f5e688]: ·
+              - generic [ref=f5e689]: 6 hrs
+            - generic [ref=f5e693]:
+              - generic [ref=f5e694]: Automation
+              - generic [ref=f5e695]: Learn More
+        - generic [ref=f5e699] [cursor=pointer]:
+          - generic [ref=f5e700]:
+            - img "Appium — Mobile Testing (Android/iOS) from Scratch + Frameworks" [ref=f5e701]
+            - generic [ref=f5e703]: Popular
+            - generic [ref=f5e704]: Mobile
+          - generic [ref=f5e709]:
+            - generic [ref=f5e710]: Intermediate to Advanced
+            - heading "Appium — Mobile Testing (Android/iOS) from Scratch + Frameworks" [level=3] [ref=f5e711]
+            - paragraph [ref=f5e712]: Appium 2.0 — Android, iOS & CI/CD
+            - paragraph [ref=f5e713]: Master mobile app automation testing from basics to framework with Appium 2.0 — Android and iOS real device testing, parallel execution, and CI/CD pipeline integration.
+            - generic [ref=f5e714]:
+              - generic [ref=f5e715]: "4.6"
+              - generic [ref=f5e718]: ·
+              - generic [ref=f5e719]: 71k+
+              - generic [ref=f5e725]: ·
+              - generic [ref=f5e726]: 26 hrs
+            - generic [ref=f5e730]:
+              - generic [ref=f5e731]: Mobile
+              - generic [ref=f5e732]: Learn More
+        - generic [ref=f5e736] [cursor=pointer]:
+          - generic [ref=f5e737]:
+            - img "Learn Cucumber BDD with Java — MasterClass Selenium Framework" [ref=f5e738]
+            - generic [ref=f5e740]: Popular
+            - generic [ref=f5e741]: Automation
+          - generic [ref=f5e746]:
+            - generic [ref=f5e747]: Intermediate
+            - heading "Learn Cucumber BDD with Java — MasterClass Selenium Framework" [level=3] [ref=f5e748]
+            - paragraph [ref=f5e749]: Step-by-Step Cucumber BDD + Selenium
+            - paragraph [ref=f5e750]: Build a robust Selenium WebDriver framework with Cucumber BDD and Java from scratch — step-by-step Gherkin feature files, hooks, data-driven testing, and reporting.
+            - generic [ref=f5e751]:
+              - generic [ref=f5e752]: "4.5"
+              - generic [ref=f5e755]: ·
+              - generic [ref=f5e756]: 58k+
+              - generic [ref=f5e762]: ·
+              - generic [ref=f5e763]: 12 hrs
+            - generic [ref=f5e767]:
+              - generic [ref=f5e768]: Automation
+              - generic [ref=f5e769]: Learn More
+        - generic [ref=f5e773] [cursor=pointer]:
+          - generic [ref=f5e774]:
+            - img "Cypress — Modern Automation Testing from Scratch + Frameworks" [ref=f5e775]
+            - generic [ref=f5e777]: Popular
+            - generic [ref=f5e778]: Automation
+          - generic [ref=f5e783]:
+            - generic [ref=f5e784]: Beginner to Advanced
+            - heading "Cypress — Modern Automation Testing from Scratch + Frameworks" [level=3] [ref=f5e785]
+            - paragraph [ref=f5e786]: Cypress V14 — UI + Integration Testing
+            - paragraph [ref=f5e787]: Write fast and robust automated UI and integration tests using Cypress V14 with Mocha and Cucumber frameworks — component testing, E2E workflows, fixtures, and CI integration.
+            - generic [ref=f5e788]:
+              - generic [ref=f5e789]: "4.6"
+              - generic [ref=f5e792]: ·
+              - generic [ref=f5e793]: 54k+
+              - generic [ref=f5e799]: ·
+              - generic [ref=f5e800]: 20 hrs
+            - generic [ref=f5e804]:
+              - generic [ref=f5e805]: Automation
+              - generic [ref=f5e806]: Learn More
+        - generic [ref=f5e810] [cursor=pointer]:
+          - generic [ref=f5e811]:
+            - img "[JAVA] Become Full Stack QA Automation Expert" [ref=f5e812]
+            - generic [ref=f5e814]: Best Seller
+            - generic [ref=f5e815]: Bundled
+          - generic [ref=f5e820]:
+            - generic [ref=f5e821]: Beginner to Advanced
+            - heading "[JAVA] Become Full Stack QA Automation Expert" [level=3] [ref=f5e822]
+            - paragraph [ref=f5e823]: Selenium + Rest Assured + Interview Prep · 3 Courses
+            - paragraph [ref=f5e824]: Bundle of 3 courses — master Selenium WebDriver with Java, REST API automation with Rest Assured, and crack QA interviews with 150+ real questions.
+            - generic [ref=f5e825]:
+              - generic [ref=f5e826]: "4.8"
+              - generic [ref=f5e829]: ·
+              - generic [ref=f5e830]: 275k+
+              - generic [ref=f5e836]: ·
+              - generic [ref=f5e837]: 45 hrs
+            - generic [ref=f5e841]:
+              - generic [ref=f5e842]: Bundled
+              - generic [ref=f5e843]: Learn More
+        - generic [ref=f5e847] [cursor=pointer]:
+          - generic [ref=f5e848]:
+            - img "[JAVASCRIPT] Become Full Stack QA Automation Engineer" [ref=f5e849]
+            - generic [ref=f5e851]: Best Seller
+            - generic [ref=f5e852]: Bundled
+          - generic [ref=f5e857]:
+            - generic [ref=f5e858]: Beginner to Advanced
+            - heading "[JAVASCRIPT] Become Full Stack QA Automation Engineer" [level=3] [ref=f5e859]
+            - paragraph [ref=f5e860]: Playwright + Cypress + Postman + SQL · 4 Courses
+            - paragraph [ref=f5e861]: Bundle of 4 courses — master Playwright, Cypress, and Postman for web and API automation with JavaScript/TypeScript, plus SQL essentials for QA.
+            - generic [ref=f5e862]:
+              - generic [ref=f5e863]: "4.8"
+              - generic [ref=f5e866]: ·
+              - generic [ref=f5e867]: 160k+
+              - generic [ref=f5e873]: ·
+              - generic [ref=f5e874]: 35 hrs
+            - generic [ref=f5e878]:
+              - generic [ref=f5e879]: Bundled
+              - generic [ref=f5e880]: Learn More
+        - generic [ref=f5e884] [cursor=pointer]:
+          - generic [ref=f5e885]:
+            - img "[PYTHON] Become Full Stack QA Automation Expert" [ref=f5e886]
+            - generic [ref=f5e888]: Best Seller
+            - generic [ref=f5e889]: Bundled
+          - generic [ref=f5e894]:
+            - generic [ref=f5e895]: Beginner to Advanced
+            - heading "[PYTHON] Become Full Stack QA Automation Expert" [level=3] [ref=f5e896]
+            - paragraph [ref=f5e897]: Selenium + API Automation + Robot Framework · 3 Courses
+            - paragraph [ref=f5e898]: Bundle of 3 courses — learn Selenium WebDriver with Python, API automation with BDD framework, and Robot Framework for complete Python QA coverage.
+            - generic [ref=f5e899]:
+              - generic [ref=f5e900]: "4.7"
+              - generic [ref=f5e903]: ·
+              - generic [ref=f5e904]: 85k+
+              - generic [ref=f5e910]: ·
+              - generic [ref=f5e911]: 35 hrs
+            - generic [ref=f5e915]:
+              - generic [ref=f5e916]: Bundled
+              - generic [ref=f5e917]: Learn More
+        - generic [ref=f5e921] [cursor=pointer]:
+          - generic [ref=f5e922]:
+            - img "Gen AI & AI Agents for Software Testing" [ref=f5e923]
+            - generic [ref=f5e925]: Trending
+            - generic [ref=f5e926]: Bundled
+          - generic [ref=f5e931]:
+            - generic [ref=f5e932]: Intermediate to Advanced
+            - heading "Gen AI & AI Agents for Software Testing" [level=3] [ref=f5e933]
+            - paragraph [ref=f5e934]: GenAI Tools + Agentic AI + ISTQB + LangChain · 4 Courses
+            - paragraph [ref=f5e935]: Bundle of 4 AI courses — GenAI tools, autonomous multi-agent systems, ISTQB CT-AI certification prep, and LangChain for practical AI-driven QA automation.
+            - generic [ref=f5e936]:
+              - generic [ref=f5e937]: "4.8"
+              - generic [ref=f5e940]: ·
+              - generic [ref=f5e941]: 50k+
+              - generic [ref=f5e947]: ·
+              - generic [ref=f5e948]: 27 hrs
+            - generic [ref=f5e952]:
+              - generic [ref=f5e953]: Bundled
+              - generic [ref=f5e954]: Learn More
+        - generic [ref=f5e958] [cursor=pointer]:
+          - generic [ref=f5e959]:
+            - img "QA Career Guidance Talk by Rahul Shetty" [ref=f5e960]
+            - generic [ref=f5e962]: New
+            - generic [ref=f5e963]: AI Testing
+          - generic [ref=f5e968]:
+            - generic [ref=f5e969]: All Levels
+            - heading "QA Career Guidance Talk by Rahul Shetty" [level=3] [ref=f5e970]
+            - paragraph [ref=f5e971]: 3-Hour Exclusive Live Recording
+            - paragraph [ref=f5e972]: A no-fluff, high-impact 3-hour session on what it takes to succeed in QA in 2026 — career strategy, AI era frameworks, and a concrete roadmap from someone who has trained 1M+ learners globally.
+            - generic [ref=f5e973]:
+              - generic [ref=f5e974]: "4.9"
+              - generic [ref=f5e977]: ·
+              - generic [ref=f5e978]: New
+              - generic [ref=f5e984]: ·
+              - generic [ref=f5e985]: 3 hrs
+            - generic [ref=f5e989]:
+              - generic [ref=f5e990]: AI Testing
+              - generic [ref=f5e991]: Learn More
+      - generic [ref=f5e995]:
+        - paragraph [ref=f5e996]: Showing 22 of 40+ courses
+        - link "Browse All Courses" [ref=f5e997] [cursor=pointer]:
+          - /url: https://courses.rahulshettyacademy.com/l/products
+    - generic [ref=f5e1000]:
+      - generic [ref=f5e1001]: Or go all-in
+      - generic [ref=f5e1005]:
+        - generic [ref=f5e1006]: Featured Deal
+        - generic [ref=f5e1010]:
+          - generic [ref=f5e1011]:
+            - heading "All-Access Membership" [level=3] [ref=f5e1012]
+            - paragraph [ref=f5e1013]:
+              - text: One investment. Every course — now and forever. Get unlimited lifetime access to
+              - strong [ref=f5e1014]: all 40+ QA & AI courses
+              - text: ", including every new course Rahul publishes. The smartest single move you can make for your QA career."
+            - generic [ref=f5e1015]:
+              - generic [ref=f5e1016]:
+                - generic [ref=f5e1019]: "4.8"
+                - generic [ref=f5e1020]: (50k+ reviews)
+              - generic [ref=f5e1021]: 500k+ students
+              - generic [ref=f5e1028]: Lifetime access
+            - generic [ref=f5e1033]:
+              - generic [ref=f5e1034]: $129*
+              - generic [ref=f5e1035]: $499
+              - generic [ref=f5e1036]: 80% OFF
+            - paragraph [ref=f5e1037]: "*Starting from — final price may vary by package selection/region"
+            - button "Learn More" [ref=f5e1038] [cursor=pointer]
+          - img "All-Access Membership Badge" [ref=f5e1040]
+    - contentinfo [ref=f5e1041]:
+      - generic [ref=f5e1042]:
+        - generic [ref=f5e1043]:
+          - generic [ref=f5e1044]:
+            - generic [ref=f5e1045]:
+              - heading "RAHUL SHETTY" [level=3] [ref=f5e1046]
+              - paragraph [ref=f5e1047]: Transforming careers through comprehensive QA testing education. Join 1M+ learners worldwide.
+            - link "Contact Us" [ref=f5e1048] [cursor=pointer]:
+              - /url: /contact-us
+            - generic [ref=f5e1052]:
+              - heading "Connect us on Socials" [level=4] [ref=f5e1053]
+              - generic [ref=f5e1054]:
+                - link [ref=f5e1055] [cursor=pointer]:
+                  - /url: https://www.youtube.com/channel/UCgx5SDcUQWCQ_1CNneQzCRw
+                - link [ref=f5e1059] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/rahul-shetty-venkatesh/
+                - link [ref=f5e1064] [cursor=pointer]:
+                  - /url: https://www.instagram.com/rahulshettyofficial_venkat/
+          - generic [ref=f5e1068]:
+            - heading "Navigation" [level=4] [ref=f5e1069]
+            - generic [ref=f5e1070]:
+              - link "All-Access" [ref=f5e1071] [cursor=pointer]:
+                - /url: /all-access-subscription
+              - link "Learning Paths" [ref=f5e1072] [cursor=pointer]:
+                - /url: /learning-paths
+              - link "Mentorship" [ref=f5e1073] [cursor=pointer]:
+                - /url: /mentorship
+              - link "Career Accelerator" [ref=f5e1074] [cursor=pointer]:
+                - /url: /qa-career-accelerator-job-ready
+              - link "Team Accelerator" [ref=f5e1075] [cursor=pointer]:
+                - /url: /qa-career-accelerator-for-teams
+              - link "AI Learning PathNEW" [ref=f5e1076] [cursor=pointer]:
+                - /url: /ai-learning-path
+              - link "Practice" [ref=f5e1077] [cursor=pointer]:
+                - /url: /practice
+              - link "Meet ups" [ref=f5e1078] [cursor=pointer]:
+                - /url: https://qasummit.org
+              - link "Blog" [ref=f5e1079] [cursor=pointer]:
+                - /url: https://rahulshettyacademy.com/blog/
+              - link "Contact Us" [ref=f5e1080] [cursor=pointer]:
+                - /url: /contact-us
+          - generic [ref=f5e1081]:
+            - heading "Popular Courses" [level=4] [ref=f5e1082]
+            - generic [ref=f5e1083]:
+              - link "Selenium WebDriver" [ref=f5e1084] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/selenium-webdriver-interview-questions-tutorial-1
+              - link "Playwright Testing" [ref=f5e1085] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/playwright-js-ts-automation-testing-from-scratch-framework
+              - link "API Testing" [ref=f5e1086] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/rest-api-automation-rest-assured-java
+              - link "AI Agents" [ref=f5e1087] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/learn-agentic-ai-build-multi-agent-automation-workflow
+              - link "AI Testing Tools" [ref=f5e1088] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/learn-generativen-ai-in-software-testing
+              - link "Browse All Courses" [ref=f5e1089] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/courses
+          - generic [ref=f5e1090]:
+            - heading "Support" [level=4] [ref=f5e1091]
+            - generic [ref=f5e1092]:
+              - link "Student Login" [ref=f5e1093] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/sign_in
+              - link "Contact Us" [ref=f5e1094] [cursor=pointer]:
+                - /url: /contact-us
+              - link "Help Center" [ref=f5e1095] [cursor=pointer]:
+                - /url: "#"
+              - link "Community" [ref=f5e1096] [cursor=pointer]:
+                - /url: "#"
+              - link "Terms of Service" [ref=f5e1097] [cursor=pointer]:
+                - /url: /terms-of-service
+              - link "Privacy Policy" [ref=f5e1098] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=f5e1100]:
+          - generic [ref=f5e1101]:
+            - paragraph [ref=f5e1102]: © 2026 Rahul Shetty Academy. All rights reserved.
+            - generic [ref=f5e1103]: •
+            - generic [ref=f5e1104]: Built with ♥ for testers worldwide.
+          - generic [ref=f5e1106]:
+            - generic [ref=f5e1107]: contact@rahulshettyacademy.com
+            - generic [ref=f5e1108]: Trusted by 1M+ QA Engineers

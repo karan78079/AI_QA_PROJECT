@@ -1,0 +1,316 @@
+- generic [ref=f8e2]:
+  - region "Notifications (F8)":
+    - list
+  - region "Notifications alt+T"
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - generic: Limited Time — Free
+          - button "Dismiss popup"
+        - generic:
+          - heading "Join Our Academy & Unlock 2 Premium Courses — FREE" [level=3]: Join Our Academy & Unlock2 Premium Courses — FREE
+          - paragraph: Sign up once. No credit card. Instant access.
+        - list:
+          - listitem:
+            - generic: Java Design Patterns for Test Framework
+          - listitem:
+            - generic: SDET/QA Automation Interview Kit + Java Logic Programs
+        - link "Sign Up Free →":
+          - /url: https://courses.rahulshettyacademy.com/sign_up
+        - paragraph: Usually $197 · Now completely FREE
+  - generic [ref=f8e3]:
+    - navigation [ref=f8e4]:
+      - generic [ref=f8e6]:
+        - link [ref=f8e8] [cursor=pointer]:
+          - /url: /
+          - img "Rahul Shetty Academy" [ref=f8e9]
+        - generic [ref=f8e10]:
+          - link "Home" [ref=f8e11] [cursor=pointer]:
+            - /url: /
+          - link "All-Access" [ref=f8e15] [cursor=pointer]:
+            - /url: /all-access-subscription
+          - link "Learning Paths" [ref=f8e18] [cursor=pointer]:
+            - /url: /learning-paths
+          - link "Courses" [ref=f8e23] [cursor=pointer]:
+            - /url: /course-library
+          - link "Mentorship" [ref=f8e26] [cursor=pointer]:
+            - /url: /mentorship
+          - button "Career Accelerator (Job/Skill-Oriented) NEW" [ref=f8e32] [cursor=pointer]:
+            - generic [ref=f8e36]:
+              - generic [ref=f8e37]: Career Accelerator
+              - generic [ref=f8e40]: (Job/Skill-Oriented)
+            - generic [ref=f8e41]: NEW
+          - link "Practice Apps" [ref=f8e42] [cursor=pointer]:
+            - /url: /practice
+        - generic [ref=f8e47]:
+          - link "Contact Us" [ref=f8e48] [cursor=pointer]:
+            - /url: /contact-us
+          - button "Resources" [ref=f8e52] [cursor=pointer]
+          - link "Sign Up" [ref=f8e60] [cursor=pointer]:
+            - /url: https://courses.rahulshettyacademy.com/sign_up
+    - generic [ref=f8e61]:
+      - generic [ref=f8e62]: Latest
+      - generic [ref=f8e71]:
+        - generic [ref=f8e72]:
+          - generic [ref=f8e73]: ◆
+          - generic [ref=f8e74]:
+            - text: "🎤 New: QA Career Guidance Talk by Rahul Shetty — 3 hours of career strategy, AI era frameworks, and a 2026 roadmap."
+            - link "Watch Now" [ref=f8e75] [cursor=pointer]:
+              - /url: /qa-career-guidance-talk
+        - generic [ref=f8e76]:
+          - generic [ref=f8e77]: ◆
+          - generic [ref=f8e78]: "🚀 Just Released: New K6 Performance Testing Masterclass is now live- Checkout in Course library"
+        - generic [ref=f8e79]:
+          - generic [ref=f8e80]: ◆
+          - generic [ref=f8e81]:
+            - text: "💼 Get Shortlisted by Recruiters: Take QA skill assessments on"
+            - link "TechSmartHire" [ref=f8e82] [cursor=pointer]:
+              - /url: https://techsmarthire.com
+            - text: and unlock real job opportunities
+        - generic [ref=f8e83]:
+          - generic [ref=f8e84]: ◆
+          - generic [ref=f8e85]:
+            - text: "🧪 New Automation Playground: Practice Web & API Automation on our"
+            - link "Full Stack Event Hub demo application" [ref=f8e86] [cursor=pointer]:
+              - /url: https://eventhub.rahulshettyacademy.com/
+        - generic [ref=f8e87]:
+          - generic [ref=f8e88]: ◆
+          - generic [ref=f8e89]: "🤖 Agentic AI is here: Claude Code-powered QA workflows now covered in the Gen AI & AI Agents Testing course — watch the new additions."
+        - generic [ref=f8e90]:
+          - generic [ref=f8e91]: ◆
+          - generic [ref=f8e92]: 🔥 ISTQB AI Testing course crosses 1,500 students in just 14 days — Surge in demand for Certs
+        - generic [ref=f8e93]:
+          - generic [ref=f8e94]: ◆
+          - generic [ref=f8e95]:
+            - text: "🎓 Limited-Time Access: Unlock 40+ QA & AI courses with"
+            - link "All-Access Membership" [ref=f8e96] [cursor=pointer]:
+              - /url: /all-access-subscription
+            - text: for just $129*
+        - generic [ref=f8e97]:
+          - generic [ref=f8e98]: ◆
+          - generic [ref=f8e99]: "📈 Playwright Surge is Real: Learning consumption has increased by 250%+ in the last quarter"
+        - generic [ref=f8e100]:
+          - generic [ref=f8e101]: ─ ─ ─ ─ ─
+          - generic [ref=f8e102]:
+            - text: 📬 That's all for now —
+            - link "Subscribe to our Newsletter" [ref=f8e103] [cursor=pointer]:
+              - /url: https://courses.rahulshettyacademy.com/sign_up
+            - text: and get updates like these once a month.
+        - generic [ref=f8e104]:
+          - generic [ref=f8e105]: ◆
+          - generic [ref=f8e106]:
+            - text: "🎤 New: QA Career Guidance Talk by Rahul Shetty — 3 hours of career strategy, AI era frameworks, and a 2026 roadmap."
+            - link "Watch Now" [ref=f8e107] [cursor=pointer]:
+              - /url: /qa-career-guidance-talk
+        - generic [ref=f8e108]:
+          - generic [ref=f8e109]: ◆
+          - generic [ref=f8e110]: "🚀 Just Released: New K6 Performance Testing Masterclass is now live- Checkout in Course library"
+        - generic [ref=f8e111]:
+          - generic [ref=f8e112]: ◆
+          - generic [ref=f8e113]:
+            - text: "💼 Get Shortlisted by Recruiters: Take QA skill assessments on"
+            - link "TechSmartHire" [ref=f8e114] [cursor=pointer]:
+              - /url: https://techsmarthire.com
+            - text: and unlock real job opportunities
+        - generic [ref=f8e115]:
+          - generic [ref=f8e116]: ◆
+          - generic [ref=f8e117]:
+            - text: "🧪 New Automation Playground: Practice Web & API Automation on our"
+            - link "Full Stack Event Hub demo application" [ref=f8e118] [cursor=pointer]:
+              - /url: https://eventhub.rahulshettyacademy.com/
+        - generic [ref=f8e119]:
+          - generic [ref=f8e120]: ◆
+          - generic [ref=f8e121]: "🤖 Agentic AI is here: Claude Code-powered QA workflows now covered in the Gen AI & AI Agents Testing course — watch the new additions."
+        - generic [ref=f8e122]:
+          - generic [ref=f8e123]: ◆
+          - generic [ref=f8e124]: 🔥 ISTQB AI Testing course crosses 1,500 students in just 14 days — Surge in demand for Certs
+        - generic [ref=f8e125]:
+          - generic [ref=f8e126]: ◆
+          - generic [ref=f8e127]:
+            - text: "🎓 Limited-Time Access: Unlock 40+ QA & AI courses with"
+            - link "All-Access Membership" [ref=f8e128] [cursor=pointer]:
+              - /url: /all-access-subscription
+            - text: for just $129*
+        - generic [ref=f8e129]:
+          - generic [ref=f8e130]: ◆
+          - generic [ref=f8e131]: "📈 Playwright Surge is Real: Learning consumption has increased by 250%+ in the last quarter"
+        - generic [ref=f8e132]:
+          - generic [ref=f8e133]: ─ ─ ─ ─ ─
+          - generic [ref=f8e134]:
+            - text: 📬 That's all for now —
+            - link "Subscribe to our Newsletter" [ref=f8e135] [cursor=pointer]:
+              - /url: https://courses.rahulshettyacademy.com/sign_up
+            - text: and get updates like these once a month.
+    - generic [ref=f8e137]:
+      - heading "Contact Us" [level=1] [ref=f8e138]
+      - paragraph [ref=f8e139]: Get in touch with our team for any questions about courses, mentorship, or career guidance.
+    - generic [ref=f8e142]:
+      - generic [ref=f8e144]:
+        - heading "Send Message" [level=2] [ref=f8e146]
+        - generic [ref=f8e151]:
+          - generic [aria-hidden] [ref=f8e152]:
+            - text: Leave this field blank
+            - textbox [ref=f8e153]
+          - generic [ref=f8e154]:
+            - generic [ref=f8e155]:
+              - generic [ref=f8e156]: Your Name *
+              - textbox "Your Name *" [ref=f8e157]:
+                - /placeholder: Enter your full name
+            - generic [ref=f8e158]:
+              - generic [ref=f8e159]: Mobile Number *
+              - textbox "Mobile Number *" [ref=f8e160]:
+                - /placeholder: Enter your mobile number
+          - generic [ref=f8e161]:
+            - generic [ref=f8e162]:
+              - generic [ref=f8e163]: Country *
+              - textbox "Country *" [ref=f8e164]:
+                - /placeholder: Enter your country
+            - generic [ref=f8e165]:
+              - generic [ref=f8e166]: Email Address *
+              - textbox "Email Address *" [ref=f8e167]:
+                - /placeholder: Enter your email
+          - generic [ref=f8e168]:
+            - generic [ref=f8e169]: Select a Subject *
+            - combobox [ref=f8e170] [cursor=pointer]:
+              - generic: Choose a subject
+            - combobox [aria-hidden] [ref=f8e173]
+          - generic [ref=f8e174]:
+            - generic [ref=f8e175]: Your Message *
+            - textbox "Your Message *" [ref=f8e176]:
+              - /placeholder: Tell us more about your inquiry...
+          - generic [ref=f8e177]:
+            - generic [ref=f8e178]: Verify you're human *
+            - generic [ref=f8e179]:
+              - generic [ref=f8e180]:
+                - generic [ref=f8e181]: "92"
+                - generic [ref=f8e182]: +
+                - generic [ref=f8e183]: "53"
+                - generic [ref=f8e184]: =
+              - spinbutton "?" [ref=f8e185]
+              - button [ref=f8e186] [cursor=pointer]
+          - button "Send Message" [ref=f8e187] [cursor=pointer]
+      - generic [ref=f8e189]:
+        - heading "Contact Info" [level=2] [ref=f8e191]
+        - generic [ref=f8e192]:
+          - generic [ref=f8e198]:
+            - heading "E-mail" [level=3] [ref=f8e199]
+            - paragraph [ref=f8e200]: contact@rahulshettyacademy.com
+          - generic [ref=f8e206]:
+            - heading "Address" [level=3] [ref=f8e207]
+            - paragraph [ref=f8e208]: Meenakshi Towers,Road Number 4, Kundanhalli,Bangalore, India
+          - generic [ref=f8e213]:
+            - heading "Support Hours" [level=3] [ref=f8e214]
+            - paragraph [ref=f8e215]: Monday - Friday9:00 AM - 6:00 PM IST
+    - generic [ref=f8e218]:
+      - generic [ref=f8e219]: Exclusive Academy Access
+      - heading "JOIN OUR ACADEMY" [level=2] [ref=f8e222]
+      - paragraph [ref=f8e223]: Get access to exclusive monthly QA newsletter covering the latest QA & AI testing trends, job openings, new course offerings, and practice projects — completely free when you sign up.
+      - paragraph [ref=f8e224]: Oh, and you also get 2 premium courses for free for a limited time. Just search for below titles after signing up and enroll right away — no payment needed.
+      - generic [ref=f8e225]:
+        - generic [ref=f8e226]: Java Design Patterns for Test Framework
+        - generic [ref=f8e230]: SDET/QA Automation Interview Kit + Java Logic Programs
+      - generic [ref=f8e235]:
+        - link "JOIN NOW - FREE ACCESS" [ref=f8e236] [cursor=pointer]:
+          - /url: https://courses.rahulshettyacademy.com/sign_up
+        - paragraph [ref=f8e237]: Limited time offer - Usually $197, now FREE!
+    - generic [ref=f8e241]:
+      - generic [ref=f8e242]:
+        - heading "Frequently Asked Questions" [level=2] [ref=f8e243]
+        - paragraph [ref=f8e244]: Find answers to common questions about our platform and courses
+      - generic [ref=f8e247]:
+        - heading [level=3] [ref=f8e249]:
+          - button "How do I contact support?" [ref=f8e250] [cursor=pointer]
+        - heading [level=3] [ref=f8e255]:
+          - button "What queries can I ask here?" [ref=f8e256] [cursor=pointer]
+        - heading [level=3] [ref=f8e261]:
+          - button "Is a phone number available?" [ref=f8e262] [cursor=pointer]
+        - heading [level=3] [ref=f8e267]:
+          - button "How quick is the response?" [ref=f8e268] [cursor=pointer]
+        - heading [level=3] [ref=f8e273]:
+          - button "Can I ask course-related questions?" [ref=f8e274] [cursor=pointer]
+        - heading [level=3] [ref=f8e279]:
+          - button "Is this for career help?" [ref=f8e280] [cursor=pointer]
+        - heading [level=3] [ref=f8e285]:
+          - button "Can I send feedback?" [ref=f8e286] [cursor=pointer]
+        - heading [level=3] [ref=f8e291]:
+          - button "Is email contact listed?" [ref=f8e292] [cursor=pointer]
+    - contentinfo [ref=f8e296]:
+      - generic [ref=f8e297]:
+        - generic [ref=f8e298]:
+          - generic [ref=f8e299]:
+            - generic [ref=f8e300]:
+              - heading "RAHUL SHETTY" [level=3] [ref=f8e301]
+              - paragraph [ref=f8e302]: Transforming careers through comprehensive QA testing education. Join 1M+ learners worldwide.
+            - link "Contact Us" [ref=f8e303] [cursor=pointer]:
+              - /url: /contact-us
+            - generic [ref=f8e307]:
+              - heading "Connect us on Socials" [level=4] [ref=f8e308]
+              - generic [ref=f8e309]:
+                - link [ref=f8e310] [cursor=pointer]:
+                  - /url: https://www.youtube.com/channel/UCgx5SDcUQWCQ_1CNneQzCRw
+                - link [ref=f8e314] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/rahul-shetty-venkatesh/
+                - link [ref=f8e319] [cursor=pointer]:
+                  - /url: https://www.instagram.com/rahulshettyofficial_venkat/
+          - generic [ref=f8e323]:
+            - heading "Navigation" [level=4] [ref=f8e324]
+            - generic [ref=f8e325]:
+              - link "All-Access" [ref=f8e326] [cursor=pointer]:
+                - /url: /all-access-subscription
+              - link "Learning Paths" [ref=f8e327] [cursor=pointer]:
+                - /url: /learning-paths
+              - link "Mentorship" [ref=f8e328] [cursor=pointer]:
+                - /url: /mentorship
+              - link "Career Accelerator" [ref=f8e329] [cursor=pointer]:
+                - /url: /qa-career-accelerator-job-ready
+              - link "Team Accelerator" [ref=f8e330] [cursor=pointer]:
+                - /url: /qa-career-accelerator-for-teams
+              - link "AI Learning PathNEW" [ref=f8e331] [cursor=pointer]:
+                - /url: /ai-learning-path
+              - link "Practice" [ref=f8e332] [cursor=pointer]:
+                - /url: /practice
+              - link "Meet ups" [ref=f8e333] [cursor=pointer]:
+                - /url: https://qasummit.org
+              - link "Blog" [ref=f8e334] [cursor=pointer]:
+                - /url: https://rahulshettyacademy.com/blog/
+              - link "Contact Us" [ref=f8e335] [cursor=pointer]:
+                - /url: /contact-us
+          - generic [ref=f8e336]:
+            - heading "Popular Courses" [level=4] [ref=f8e337]
+            - generic [ref=f8e338]:
+              - link "Selenium WebDriver" [ref=f8e339] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/selenium-webdriver-interview-questions-tutorial-1
+              - link "Playwright Testing" [ref=f8e340] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/playwright-js-ts-automation-testing-from-scratch-framework
+              - link "API Testing" [ref=f8e341] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/rest-api-automation-rest-assured-java
+              - link "AI Agents" [ref=f8e342] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/learn-agentic-ai-build-multi-agent-automation-workflow
+              - link "AI Testing Tools" [ref=f8e343] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/learn-generativen-ai-in-software-testing
+              - link "Browse All Courses" [ref=f8e344] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/courses
+          - generic [ref=f8e345]:
+            - heading "Support" [level=4] [ref=f8e346]
+            - generic [ref=f8e347]:
+              - link "Student Login" [ref=f8e348] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/sign_in
+              - link "Contact Us" [ref=f8e349] [cursor=pointer]:
+                - /url: /contact-us
+              - link "Help Center" [ref=f8e350] [cursor=pointer]:
+                - /url: "#"
+              - link "Community" [ref=f8e351] [cursor=pointer]:
+                - /url: "#"
+              - link "Terms of Service" [ref=f8e352] [cursor=pointer]:
+                - /url: /terms-of-service
+              - link "Privacy Policy" [ref=f8e353] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=f8e355]:
+          - generic [ref=f8e356]:
+            - paragraph [ref=f8e357]: © 2026 Rahul Shetty Academy. All rights reserved.
+            - generic [ref=f8e358]: •
+            - generic [ref=f8e359]: Built with ♥ for testers worldwide.
+          - generic [ref=f8e361]:
+            - generic [ref=f8e362]: contact@rahulshettyacademy.com
+            - generic [ref=f8e363]: Trusted by 1M+ QA Engineers
